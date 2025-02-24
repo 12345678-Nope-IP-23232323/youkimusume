@@ -1,7 +1,9 @@
+E1D0..E1FF; Syai
+EC70..ECEF; Graflect
 F8D0..F8FF; Klingon
 F2000..F267F; Sadalian
 F3000..F347F; Morningmusumese
-F4000..F402F; Yuushounese
+F4000..F402F; Kentang
 F4030..F404F; Youkinese
 F4050..F408F; Singkong
 F4090..F40AF; Balti-A
@@ -9,8 +11,8 @@ F40B0..F40FF; Iban
 F4100..F413F; Lampung
 F4140..F417F; Balti-B
 F4180..F41AF; Jeruklegi
-F41B0..F41EF; Smileage
-F41F0..F426F; Manatsunokajitsese
+F41B0..F41FF; Smileage
+F4200..F426F; Ninnikese
 F4270..F429F; Tamanegi
 F42A0..F42DF; Haneru
 F42E0..F42FF; Proto-Sinatic
