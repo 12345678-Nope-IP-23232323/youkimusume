@@ -2,7 +2,7 @@
 
 by RebeccaRGB with artwork by Reyvan Aprilian Vardhiana.
 
-Youki Katsujishotai is a TrueType font with embedded color images, like emoji fonts, except instead of emoji it contains flat-style sprites of Touhou characters. The version named **YoukiKatsujishotai.ttf.sbix.ttf** works only with Mac OS X 10.8 Mountain Lion or later. The version named **YoukiKatsujishotai.ttf.svg.ttf** will work with Mozilla Firefox and will soon work with Adobe CC and Windows 10/11.
+Youki Katsujishotai is a TrueType font with embedded color images, like character fonts, except instead of character it contains flat-style sprites of Youki characters. The version named **YoukiKatsujishotai.ttf.sbix.ttf** works only with Mac OS X 10.8 Mountain Lion or later. The version named **YoukiKatsujishotai.ttf.svg.ttf** will work with Mozilla Firefox and will soon work with Adobe CC and Windows 10/11.
 
 Katsujishotai (hiragana: かつじしょたい, kanji: 活字書体) means "typeface" according to EDICT.
 
