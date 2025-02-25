@@ -8,6 +8,7 @@
 ### Jurgenschmidht (by Jurgen Schmidht)
 ### Klingon (by Astra Image Corporation)
 ### Medefaidrin (by Michael Ukpong & Akpan Akpan Udofia)
+![Medefaidrin](https://github.com/user-attachments/assets/217d43b4-6240-43c4-aa94-68a54697c660)
 ### Shidinn (by Quefei Huang)
 ### Syai (by Brian Lilburn)
 ### Tengwar (by J. R. R. Tolkien)
