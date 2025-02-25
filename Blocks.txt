@@ -1,5 +1,4 @@
 E1D0..E1FF; Syai
-E8E0..E8FF; Tonal
 EBF0..EBFF; Martin Hexadecimal Numerals
 EC70..ECEF; Graflect
 F800..F80F; Apple Compatibility
@@ -14,8 +13,9 @@ F28A0..F28DF; Zbalermorna
 F4030..F404F; Youkinese
 F4050..F408F; Singkong
 F41B0..F41FF; Smileage
-F4270..F429F; Tamanegi
-F42A0..F42DF; Haneru
+F4200..F429F; Touhou
+F42A0..F42DF; Ol Mayupink
 F42E0..F42FF; Proto-Sinatic
-F43B0..F43FF; Iban
-F4400..F467F; Tamenagashionese
+F4400..F467F; Cilacap Syllabary
+F4680..F46AF; Hatsukoihanabiese
+F46B0..F46FF; Iban
