@@ -5,7 +5,7 @@
 ### Jurgenschmidht (Creator by ???)
 ### Klingon (Creator by ???)
 ### Shidinn (Creator by ???)
-### Syai (Creator by ???)
+### Tengwar (Creator by J. R. R. Tolkien)
 ### Touhou (Creator by ???)
 ### Youkinese (Creator by Reyvan Aprilian Vardhiana, Forked by Momona Kasahara)
 ![容器の文字](https://github.com/user-attachments/assets/0ef3d914-0078-4960-8178-82f8e21bca74)
