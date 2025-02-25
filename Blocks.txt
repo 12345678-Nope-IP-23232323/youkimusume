@@ -3,7 +3,7 @@ E1D0..E1FF; Syai
 E630..E64F; Seussian Latin Extensions
 EBF0..EBFF; Martin Hexadecimal Numerals
 EC70..ECEF; Graflect
-F000..F09F; Touhou
+F000..F0FF; Touhou
 F800..F80F; Apple Compatibility
 F8D0..F8FF; Klingon
 F16B0..F16DF; Derani
