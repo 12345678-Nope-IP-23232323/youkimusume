@@ -20,5 +20,5 @@ F4400..F467F; Cilacap Syllabary
 F4680..F46AF; Hatsukoihanabiese
 F46B0..F46FF; Iban
 F5E00..F5FFF; Kamakawi
-F6B00..F6B4F; Ubi Jalar-Satsumaimo
+F6800..F688F; Viet Kokoro
 FF600..FF64F; Jurgenschmidht
