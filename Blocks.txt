@@ -2,11 +2,12 @@ E1D0..E1FF; Syai
 EC70..ECEF; Graflect
 F8D0..F8FF; Klingon
 F2000..F267F; Sadalian
+F28A0..F28DF; Zbalermorna
 F4030..F404F; Youkinese
 F4050..F408F; Singkong
-F4100..F413F; Lampung
 F41B0..F41FF; Smileage
-F4200..F426F; Ninnikese
 F4270..F429F; Tamanegi
 F42A0..F42DF; Haneru
 F42E0..F42FF; Proto-Sinatic
+F43B0..F43FF; Iban
+F4400..F467F; Tamenagashionese
