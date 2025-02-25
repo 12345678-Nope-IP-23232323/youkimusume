@@ -69,9 +69,27 @@
 - **24-39** - Low Zone 1 Offices
 - **40-41** - Office Sky lobby
 - **42** - Mechanical
-- **43-57** - Low Zone 1 Offices
-- **58-74** - Low Zone 1 Offices
+- **43-57** - Mid Zone 1 Offices
+- **58-74** - Mid Zone 2 Offices
 - **75** - Park Hyatt Kuala Lumpur (hotel) Sky lobby, Restaurant and Bar
+- **76** - Office Sky lobby
+- **77** - Mechanical
+- **78-86** - High Zone 1 Offices
+- **87-91** - PNB Office 1
+- **92** - PNB Main Reception
+- **93-96** - PNB Office 2
+- **97-98** - Park Hyatt Kuala Lumpur (Hotel)
+- **99** - Hotels' indoor gym, spa and swimming pool
+- **100-112** - Park Hyatt Kuala Lumpur (Hotel)
+- **113** - Mechanical
+- **114** - Luxury Restaurant
+- **115** - Luxury Restaurant
+- **116** - Lower Level Observatory
+- **117** - Middle Level Observatory
+- **118** - Upper Level Observatory
+- **119** - Elevators Machinery/Mechanical
+- **120** - Spire Tower/Roof/Mechanical
+- **Spire** - The Spire
 ## Conscripts
 ### Part 1
 #### Youkinese
