@@ -8,7 +8,7 @@ EC70..ECEF; Graflect
 ECF0..ECFF; Whitaker Hexadecimal Numerals
 EDE0..EDEF; Zese
 EDF0..EDFF; Grawlixes
-F000..F09F; Touhou Compatibility
+F000..F09F; Touhou
 F800..F80F; Apple Compatibility
 F8D0..F8FF; Klingon
 F16B0..F16DF; Derani
