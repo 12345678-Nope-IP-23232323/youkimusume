@@ -1,7 +1,6 @@
 # Youki Musume (容器娘。)
 ## UCSUR
 ### Braille Extended (by Louis Braille)
-### Bungamasreyvan (by Ryukent Altezza Vardhiana)
 ### Derani (by Hoemaı)
 ### Graflect (by Aaron Paterson)
 ### Grawlixes (by Mort Walker)
