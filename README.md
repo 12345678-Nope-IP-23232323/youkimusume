@@ -1,20 +1,32 @@
 # Youki Musume (容器娘。)
 ## Buildings
-### Youki Tower II
+### Youki Towers
 #### Building Information
-- Building Name: Youki Tower II
-- Building Type: Tower
-#### Building Information
-##### Zone 1
-- Floor 1: Lobby
-#### Lift / Elevator Information
-- Brand: Zhongshan ThyssenKrupp
-- Model / Fixtures: Meta 200 Gearless Traction / MT 42
-- Type: Passenger Scenic
-- Capacity: 21 Persons / 1600 Kg
-- Serving: 1F, 2F, 3F, 9F, 10F
-- Non-Serve Floors: 4F, 5F, 6F, 7F, 8F
-- History: TBA
+- Building Name: Youki Towers
+- Building Type: Multi-use
+#### Floor Plans
+##### Tower II
+- **B6-B2** - Basement Parking
+- **P1** - Lower Lobby, Parking
+- **P2** - Main Lobby, Parking
+- **P3-P7** - Parking
+- **8-40** - Offices
+- **41-42** - Mechanical
+- **43** - Office Skylobby and Lower Skydeck
+- **44-78** - Offices
+- **79** - Mechanical
+- **80** - Hotel Skylobby
+- **81** - Hotel Rooms
+- **82** - Hotel Service
+- **83-98** - Hotel Rooms
+- **99** - Hotel Penthouse
+- **100-102** - Ballrooms
+- **103** - Restaurant Service
+- **104** - Restaurant
+- **105** - Empty
+- **106-108** - Communications
+- **109-112** - Mechanical
+- **113** - Upper Skydeck, Rooftop Garden
 ## Conscripts
 ### Part 1
 #### Youkinese
