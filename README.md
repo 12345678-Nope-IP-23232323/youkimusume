@@ -23,5 +23,5 @@
 ![Medefaidrin](https://github.com/user-attachments/assets/217d43b4-6240-43c4-aa94-68a54697c660)
 ### Ihatemysalf
 ![Ihatemysalf](https://github.com/user-attachments/assets/2dc2e6cc-6123-4ec7-9352-495ff31df874)
-### Touhou (by Team Shanghai Alice)
-[Click Here!](https://github.com/RebeccaRGB/emojifont-touhou/blob/6e12be0ec6f82fe6f848c94107951f818d5733b5/README.md)
+## Touhou
+[Fonts/README.md](https://github.com/RebeccaRGB/emojifont-touhou/blob/6e12be0ec6f82fe6f848c94107951f818d5733b5/README.md)
