@@ -1,6 +1,6 @@
 # Youki Musume Project (容器娘。プロジェクト)
 ## Buildings/Floor Plans
-### Fictional/Youkimachi/Youki Towers
+### Youki Towers (Youkimachi)
 #### Zone 1
 - **B6-B2** - Basement Parking
 - **P1** - Lower Lobby, Parking
@@ -27,10 +27,9 @@
 - **113** - Upper Skydeck
 - **114-122** - Communications
 - **123** - Rooftop
-### IRL/USA/Wilis Tower
-**Proposal by EM113; Revised by EM111**
+### Wilis Tower (United States of America)
 #### Zone 1
-- **LL3-LL1** - Lower Lobby, Skydeck Entrance (on LL2), Shops and Restaurants
+- **LL3-LL1** - Lower Lobby, Skydeck Entrance, Shops and Restaurants
 - **1** - Lobby, Shops and Restaurants
 - **2** - Restaurant and Upper lobby
 - **3-28** - Zone 1 Offices
@@ -53,9 +52,8 @@
 - **106-108** - Zone 3 Upper Mechanical
 - **109** - Roof with Mechanical Penthouse
 - **110** - Penthouse Roof
-### IRL/Malaysia/Merdeka 118
-**Proposal by EM113; Revised by EM111**
-#### Main
+### Merdeka 118 (Malaysia)
+#### Zone 0
 - **B7** - Mechanical
 - **B6-B1** - Basement Parking
 - **C** - Lounge / Gallery / Loading Dock
@@ -63,14 +61,17 @@
 - **1-2** - The View @ 118 (Skydeck and observatory)
 - **3** - Park Hyatt Hotel Lobby / Mall Entrance
 - **4** - Upper Lobby Level / South Foyer
+#### Zone 1
 - **5** - Merdeka 118 Office lobby
 - **6-7** - Mechanical
 - **8-23** - Low Zone 1 Offices
 - **24-39** - Low Zone 1 Offices
+#### Zone 2
 - **40-41** - Office Sky lobby
 - **42** - Mechanical
 - **43-57** - Mid Zone 1 Offices
 - **58-74** - Mid Zone 2 Offices
+#### Zone 3
 - **75** - Park Hyatt Kuala Lumpur (hotel) Sky lobby, Restaurant and Bar
 - **76** - Office Sky lobby
 - **77** - Mechanical
@@ -81,12 +82,14 @@
 - **97-98** - Park Hyatt Kuala Lumpur (Hotel)
 - **99** - Hotels' indoor gym, spa and swimming pool
 - **100-112** - Park Hyatt Kuala Lumpur (Hotel)
+#### Zone 4
 - **113** - Mechanical
 - **114** - Luxury Restaurant
 - **115** - Luxury Restaurant
 - **116** - Lower Level Observatory
 - **117** - Middle Level Observatory
 - **118** - Upper Level Observatory
+#### Zone R
 - **119** - Elevators Machinery/Mechanical
 - **120** - Spire Tower/Roof/Mechanical
 - **Spire** - The Spire
