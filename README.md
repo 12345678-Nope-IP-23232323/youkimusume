@@ -1,48 +1,52 @@
 # Youki Musume Project (容器娘。プロジェクト)
+## Jadwal Acara
+### UCSUR Proposals Pagi (08:00-09:00)
+### Y-News Mornings (09:00-12:00)
+### Y-Seleb (12:00-13:00)
+### UCSUR Proposals Siang (13:00-14:00)
+### Y-News Today (14:00-15:00)
+### UCSUR Proposals 3-Hour (15:00-18:00)
+### OMAKE CHANNEL (18:00-18:30)
+### Y-News Prime (18:30-20:00)
+### BRI Liga 1 (20:00-22:00)
+### Y-News Tonight (22:00-23:00)
+### Osu! (23:00-05:00)
 ## Buildings/Floor Plans
-### Youkimachi Tower
-- **B6-B1:** Basement Parking
-- **LL:** Lower Lobby, Mall
-- **ML:** Main Lobby, Mall
-- **1-7:** Mall
-- **8-40:** Offices
-- **41-42:** Mechanical
-- **43:** Residential Skylobby
-- **44-78:** Residential
-- **79:** Mechanical
-- **80:** Hotel Skylobby
-- **81:** Hotel Rooms
-- **82:** Mechanical
-- **83-112:** Hotel Rooms
-- **113:** Secondary Skydeck
-- **114:** Mechanical/Pool Maintenance
-- **115:** Aquarium Pool
-- **116-117:** Mechanical
-- **118:** Restaurant
-- **119-120:** Ballroom
-- **121:** Main Skydeck
-- **122-123:** Mechanical
-- **124-131:** Communications
+### Youkimachi Complex 1
+#### Skydeck Tower
+- **1:** 果実エノ House Lower Level
+- **2:** 果実エノ House Upper Level
+- **3:** Express Zone
+- **4:** Lower Lobby; Connector to 豆丸台 Tower
+- **5:** Elevator Lobby
+- **6:** Restaurant
+- **7-18:** Mechanical/Express Zone
+- **19-20:** Skydeck
+- **21-26:** Communications and Mechanical
 - **RF:** Rooftop
-### 85 Sky Tower
-- **B5-B3:** Parking garage
-- **B1:** Chien-Tai Daimaru Department Store (ceased operations)
-- **1:** Lobby
-- **2–7:** Chien-Tai Daimaru Department Store (ceased operations)
-- **8–11:** Chien-Tai Indoor Amusement Park (ceased operations)
-- **12:** Nikko Plaza (sky lobby for offices and condominiums)
-- **13–35:** Offices and Residential condominiums (School of Banking and Finance, NSYSU)
-- **36–37:** Mechanical, Electrical, and Plumbing (M/E/P)
-- **38–42:** Hotel Facilities (ceased operations)
-- **43–45:** Meeting Rooms and Ballrooms (no 44th floor) (ceased operations)
-- **46–70:** Guest Rooms (ceased operations)
-- **71–73:** unoccupied
-- **74:** Observatory (ceased operations)
-- **75:** Teppanyaki restaurant (ceased operations)
-- **76:** Sexy Disco Bar (ceased operations)
-- **77–79:** Palace VIP Private Club and Spa (ceased operations)
-- **81:** Radio Broadcasting Facility
-- **83–85:** Mechanical
+#### 豆丸台 Tower
+- **B12-B6:** Basement Parking
+- **B5:** Motor Lobby
+- **B4-B3:** Supermarket
+- **B2-B1:** Youkimachi Mall
+- **1:** Main Lobby, Youkimachi Mall
+- **2-4:** Youkimachi Mall; Connector to Skydeck Tower (on 4th Floor)
+- **5-6:** Mechanical
+- **7–18:** Lower Offices
+- **19–20:** Mechanical
+- **21–36:** Middle Offices
+- **37:** Mechanical
+- **38–57:** Upper Offices
+- **58:** Executive Offices
+- **59-60:** Hotel Skylobby
+- **61:** Alifa Fried Chicken
+- **62:** Mechanical
+- **63–112:** Guestrooms
+- **113:** Mechanical
+- **114-115:** Restaurant
+- **116-118:** Observatory
+- **119-120:** Mechanical
+- **122:** Roof
 ### Wilis Tower
 - **LL3-LL1:** Lower Lobby, Skydeck Entrance, Shops and Restaurants
 - **1:** Lobby, Shops and Restaurants
