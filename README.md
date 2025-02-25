@@ -3,11 +3,13 @@
 ### Ihatemysalf
 ![Ihatemysalf](https://github.com/user-attachments/assets/2dc2e6cc-6123-4ec7-9352-495ff31df874)
 ### Klingon (by Astra Image Corporation)
+![Klingon_Alphabet](https://github.com/user-attachments/assets/6f8e0f03-17ea-4310-899a-d7ea9dde085f)
 ### Medefaidrin (by Michael Ukpong & Akpan Akpan Udofia)
 ![Medefaidrin](https://github.com/user-attachments/assets/217d43b4-6240-43c4-aa94-68a54697c660)
-### Syai (by Brian Lilburn) (Incompleted)
-![syai-p2](https://github.com/user-attachments/assets/a3abfdfd-b07e-4332-bc41-a272de6deacc)
-### Tengwar (by J. R. R. Tolkien)
+### Syai (by Brian Lilburn)
+![syai-p1](https://github.com/user-attachments/assets/b95ea2e4-7335-4a48-aac6-7b0616484771)
+![syai-p2](https://github.com/user-attachments/assets/ef10d11d-390e-46fb-b0a8-4996e089a015)
+![syai-p3](https://github.com/user-attachments/assets/a6967dd0-742b-458e-afc4-5988f4369332)
 ### Touhou (by Team Shanghai Alice)
 |                  | Unicode Code Point | My Touhous!
 | ---------------- | ------------------ | -----------------------------------
@@ -55,7 +57,7 @@
 |                  |        F04D        | <img src="src/TouhouKatsujishotai.ttf.sbix.d/160/char_F04D.png" width="20" height="20"> Minoriko Aki
 |                  |        F04E        | <img src="src/TouhouKatsujishotai.ttf.sbix.d/160/char_F04E.png" width="20" height="20"> Hina Kagiyama
 |                  |        F04F        | <img src="src/TouhouKatsujishotai.ttf.sbix.d/160/char_F04F.png" width="20" height="20"> Nitori Kawashiro
-|        J         |        F050        | <img src="src/TouhouKatsujishotai.ttf.sbix.d/160/char_F050.png" width="20" height="20"> Momiji Inubashiri
+|                  |        F050        | <img src="src/TouhouKatsujishotai.ttf.sbix.d/160/char_F050.png" width="20" height="20"> Momiji Inubashiri
 |                  |        F051        | <img src="src/TouhouKatsujishotai.ttf.sbix.d/160/char_F051.png" width="20" height="20"> Sanae Kochiya
 |                  |        F052        | <img src="src/TouhouKatsujishotai.ttf.sbix.d/160/char_F052.png" width="20" height="20"> Kanako Yasaka
 |                  |        F053        | <img src="src/TouhouKatsujishotai.ttf.sbix.d/160/char_F053.png" width="20" height="20"> Suwako Moriya
