@@ -15,10 +15,12 @@ F2830..F286F; Shaleian
 F28A0..F28DF; Zbalermorna
 F4030..F404F; Youkinese
 F4100..F413F; Lampung
-F42E0..F42FF; Proto-Sinatic
-F4400..F467F; Cilacap Syllabary
+F4140..F416F; Kerinci
+F4380..F43FF; Cilacap
+F4400..F467F; Jeruklegi
 F4680..F46AF; Hatsukoihanabiese
 F46B0..F46FF; Iban
 F5E00..F5FFF; Kamakawi
 F6800..F688F; Viet Kokoro
+FF300..FF32F; Proto-Sinatic
 FF600..FF64F; Jurgenschmidht
