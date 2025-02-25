@@ -65,7 +65,7 @@
 - Blocks: U+F28A0-U+F28DF (formerly U+ED80-U+EDBF)
 ### Part 2
 #### Sidetic
-- Blocks: U+FF240-U+FF26F (now U+10940-U+1095F)
+- Blocks: U+10940-U+1095F (formerly U+FF240-U+FF26F)
 #### Ihatemysalf
 ![Ihatemysalf](https://github.com/user-attachments/assets/2dc2e6cc-6123-4ec7-9352-495ff31df874)
 - Blocks: U+FF330-U+FF37F
