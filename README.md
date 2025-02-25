@@ -1,15 +1,15 @@
 # Youki Musume Project (容器娘。プロジェクト)
 ## Jadwal Acara
 ### UCSUR Proposals Pagi (08:00-09:00)
-### Y-News Mornings (09:00-12:00)
-### Y-Seleb (12:00-13:00)
-### UCSUR Proposals Siang (13:00-14:00)
-### Y-News Today (14:00-15:00)
-### UCSUR Proposals 3-Hour (15:00-18:00)
+### Y-News Morning (09:00-12:00)
+### Y-Seleb (12:00-12:45)
+### UCSUR Proposals (12:45-14:15)
+### Redaksi (14:15-15:15)
+### UCSUR Proposals (15:15-18:00)
 ### OMAKE CHANNEL (18:00-18:30)
-### Y-News Prime (18:30-20:00)
+### Y-News Evening (18:30-20:00)
 ### BRI Liga 1 (20:00-22:00)
-### Y-News Tonight (22:00-23:00)
+### Sign-Off (22:00-23:00)
 ### Osu! (23:00-05:00)
 ## Buildings/Floor Plans
 ### Youkimachi Complex 1
