@@ -1,8 +1,13 @@
 E000..E07F; Tengwar
 E1D0..E1FF; Syai
 E630..E64F; Seussian Latin Extensions
+EB60..EB9F; Braille Extended
+EBE0..EBEF; Lapointe Hexadecimal Numerals
 EBF0..EBFF; Martin Hexadecimal Numerals
 EC70..ECEF; Graflect
+ECF0..ECFF; Whitaker Hexadecimal Numerals
+EDE0..EDEF; Zese
+EDF0..EDFF; Grawlixes
 F000..F00F; Touhou Compatibility
 F800..F80F; Apple Compatibility
 F8D0..F8FF; Klingon
