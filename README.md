@@ -2,97 +2,97 @@
 ## Buildings/Floor Plans
 ### Youki Towers (Youkimachi)
 #### Zone 1
-- **B6-B2** - Basement Parking
-- **P1** - Lower Lobby, Parking
-- **P2** - Main Lobby, Parking
-- **P3-P8** - Parking
-- **8-40** - Offices
-- **41-42** - Zone 1 Mechanical
+- **B6-B2:** Basement Parking
+- **P1:** Lower Lobby, Parking
+- **P2:** Main Lobby, Parking
+- **P3-P8:** Parking
+- **8-40:** Offices
+- **41-42:** Mechanical
 #### Zone 2
-- **43** - Residential Skylobby, Lower Skydeck
-- **44-78** - Residential
-- **79** - Zone 2 Mechanical
+- **43:** Residential Skylobby, Lower Skydeck
+- **44-78:** Residential
+- **79:** Mechanical
 #### Zone 3
-- **80** - Hotel Skylobby
-- **81** - Hotel Rooms
-- **82** - Hotel Service
-- **83-103** - Hotel Rooms
-- **104-105** - Hotel Penthouses
-- **106** - Restaurant Service
-- **107** - Restaurant
-- **108** - Ballroom
-- **109** - Ballroom Balcony
-- **110-112** - Zone 3 Mechanical
+- **80:** Hotel Skylobby
+- **81:** Hotel Rooms
+- **82:** Hotel Service
+- **83-103:** Hotel Rooms
+- **104:** Mechanical
+- **105:** Restaurant Service
+- **107:** Restaurant
+- **108:** Ballroom
+- **109:** Ballroom Balcony
+- **110-112:** Mechanical
 #### Zone R
-- **113** - Upper Skydeck
-- **114-122** - Communications
-- **123** - Rooftop
+- **113:** Upper Skydeck
+- **114-122:** Communications
+- **123:** Rooftop
 ### Wilis Tower (United States of America)
 #### Zone 1
-- **LL3-LL1** - Lower Lobby, Skydeck Entrance, Shops and Restaurants
-- **1** - Lobby, Shops and Restaurants
-- **2** - Restaurant and Upper lobby
-- **3-28** - Zone 1 Offices
-- **29-32** - Zone 1 Mechanical
+- **LL3-LL1:** Lower Lobby, Skydeck Entrance, Shops and Restaurants
+- **1:** Lobby, Shops and Restaurants
+- **2:** Restaurant and Upper Lobby
+- **3-28:** Zone 1 Offices
+- **29-32:** Zone 1 Mechanical
 #### Zone 2
-- **33-34** - Zone 2 Office Skylobby
-- **35-63** - Zone 2 Offices
-- **64-65** - Zone 2 Mechanical
+- **33-34:** Zone 2 Office Skylobby
+- **35-63:** Zone 2 Offices
+- **64-65:** Zone 2 Mechanical
 #### Zone 3A
-- **66-67** - Zone 3 Office Skylobby
-- **68-87** - Zone 3 Offices
-- **88-89** - Zone 3 Lower Mechanical
+- **66-67:** Zone 3 Office Skylobby
+- **68-87:** Zone 3 Offices
+- **88-89:** Zone 3 Lower Mechanical
 #### Zone 3B
-- **90** - Communications
-- **91-98** - Zone 3 Offices
-- **99** - Secondary Skydeck and Restaurant
-- **100-102** - Communications
-- **103** - Skydeck Observatory
-- **104-105** - Communications and Mechanical
-- **106-108** - Zone 3 Upper Mechanical
-- **109** - Roof with Mechanical Penthouse
-- **110** - Penthouse Roof
+- **90:** Communications
+- **91-98:** Zone 3 Offices
+- **99:** Secondary Skydeck and Restaurant
+- **100-102:** Communications
+- **103:** Skydeck Observatory
+- **104-105:** Communications and Mechanical
+- **106-108:** Zone 3 Upper Mechanical
+- **109:** Roof with Mechanical Penthouse
+- **110:** Penthouse Roof
 ### Merdeka 118 (Malaysia)
 #### Zone 0
-- **B7** - Mechanical
-- **B6-B1** - Basement Parking
-- **C** - Lounge / Gallery / Loading Dock
-- **G** - Lower Lobby Level / North Foyer
-- **1-2** - The View @ 118 (Skydeck and observatory)
-- **3** - Park Hyatt Hotel Lobby / Mall Entrance
-- **4** - Upper Lobby Level / South Foyer
+- **B7:** Mechanical
+- **B6-B1:** Basement Parking
+- **C:** Lounge / Gallery / Loading Dock
+- **G:** Lower Lobby Level / North Foyer
+- **1-2:** The View @ 118 (Skydeck and observatory)
+- **3:** Park Hyatt Hotel Lobby / Mall Entrance
+- **4:** Upper Lobby Level / South Foyer
 #### Zone 1
-- **5** - Merdeka 118 Office lobby
-- **6-7** - Mechanical
-- **8-23** - Low Zone 1 Offices
-- **24-39** - Low Zone 1 Offices
+- **5:** Merdeka 118 Office lobby
+- **6-7:** Mechanical
+- **8-23:** Low Zone 1 Offices
+- **24-39:** Low Zone 1 Offices
 #### Zone 2
-- **40-41** - Office Sky lobby
-- **42** - Mechanical
-- **43-57** - Mid Zone 1 Offices
-- **58-74** - Mid Zone 2 Offices
+- **40-41:** Office Sky lobby
+- **42:** Mechanical
+- **43-57:** Mid Zone 1 Offices
+- **58-74:** Mid Zone 2 Offices
 #### Zone 3
-- **75** - Park Hyatt Kuala Lumpur (hotel) Sky lobby, Restaurant and Bar
-- **76** - Office Sky lobby
-- **77** - Mechanical
-- **78-86** - High Zone 1 Offices
-- **87-91** - PNB Office 1
-- **92** - PNB Main Reception
-- **93-96** - PNB Office 2
-- **97-98** - Park Hyatt Kuala Lumpur (Hotel)
-- **99** - Hotels' indoor gym, spa and swimming pool
-- **100-112** - Park Hyatt Kuala Lumpur (Hotel)
+- **75:** Park Hyatt Kuala Lumpur (hotel) Sky lobby, Restaurant and Bar
+- **76:** Office Sky lobby
+- **77:** Mechanical
+- **78-86:** High Zone 1 Offices
+- **87-91:** PNB Office 1
+- **92:** PNB Main Reception
+- **93-96:** PNB Office 2
+- **97-98:** Park Hyatt Kuala Lumpur (Hotel)
+- **99:** Hotels' indoor gym, spa and swimming pool
+- **100-112:** Park Hyatt Kuala Lumpur (Hotel)
 #### Zone 4
-- **113** - Mechanical
-- **114** - Luxury Restaurant
-- **115** - Luxury Restaurant
-- **116** - Lower Level Observatory
-- **117** - Middle Level Observatory
-- **118** - Upper Level Observatory
+- **113:** Mechanical
+- **114:** Luxury Restaurant
+- **115:** Luxury Restaurant
+- **116:** Lower Level Observatory
+- **117:** Middle Level Observatory
+- **118:** Upper Level Observatory
 #### Zone R
-- **119** - Elevators Machinery/Mechanical
-- **120** - Spire Tower/Roof/Mechanical
-- **Spire** - The Spire
+- **119:** Elevators Machinery/Mechanical
+- **120:** Spire Tower/Roof/Mechanical
+- **Spire:** The Spire
 ## Conscripts
 ### Part 1
 #### Youkinese
