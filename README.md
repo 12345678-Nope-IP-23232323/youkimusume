@@ -1,30 +1,49 @@
 # Youki Musume Project (容器娘。プロジェクト)
 ## Buildings/Floor Plans
-### Youki Towers (Youkimachi)
+### Youkimachi Tower
 - **B6-B1:** Basement Parking
 - **LL:** Lower Lobby, Mall
 - **ML:** Main Lobby, Mall
 - **1-7:** Mall
 - **8-40:** Offices
 - **41-42:** Mechanical
-- **43:** Residential Skylobby, Lower Skydeck
+- **43:** Residential Skylobby
 - **44-78:** Residential
 - **79:** Mechanical
 - **80:** Hotel Skylobby
 - **81:** Hotel Rooms
 - **82:** Mechanical
 - **83-112:** Hotel Rooms
-- **113:** Upper Skydeck
+- **113:** Secondary Skydeck
 - **114:** Mechanical/Pool Maintenance
 - **115:** Aquarium Pool
 - **116-117:** Mechanical
 - **118:** Restaurant
 - **119-120:** Ballroom
-- **113:** Upper Skydeck
+- **121:** Main Skydeck
 - **122-123:** Mechanical
 - **124-131:** Communications
 - **RF:** Rooftop
-### Wilis Tower (United States of America)
+### 85 Sky Tower
+- **B5-B3:** Parking garage
+- **B1:** Chien-Tai Daimaru Department Store (ceased operations)
+- **1:** Lobby
+- **2–7:** Chien-Tai Daimaru Department Store (ceased operations)
+- **8–11:** Chien-Tai Indoor Amusement Park (ceased operations)
+- **12:** Nikko Plaza (sky lobby for offices and condominiums)
+- **13–35:** Offices and Residential condominiums (School of Banking and Finance, NSYSU)
+- **36–37:** Mechanical, Electrical, and Plumbing (M/E/P)
+- **38–42:** Hotel Facilities (ceased operations)
+- **43–45:** Meeting Rooms and Ballrooms (no 44th floor) (ceased operations)
+- **46–70:** Guest Rooms (ceased operations)
+- **71–73:** unoccupied
+- **74:** Observatory (ceased operations)
+- **75:** Teppanyaki restaurant (ceased operations)
+- **76:** Sexy Disco Bar (ceased operations)
+- **77–79:** Palace VIP Private Club and Spa (ceased operations)
+- **81:** Radio Broadcasting Facility
+- **83–85:** Mechanical
+### Wilis Tower
 - **LL3-LL1:** Lower Lobby, Skydeck Entrance, Shops and Restaurants
 - **1:** Lobby, Shops and Restaurants
 - **2:** Restaurant and Upper Lobby
@@ -45,7 +64,7 @@
 - **106-108:** Mechanical
 - **109:** Roof with Mechanical Penthouse
 - **110:** Penthouse Roof
-### Merdeka 118 (Malaysia)
+### Merdeka 118
 - **B7:** Mechanical
 - **B6-B1:** Basement Parking
 - **C:** Lounge / Gallery / Loading Dock
