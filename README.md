@@ -1,32 +1,57 @@
-# Youki Musume (容器娘。)
-## Buildings
+# Youki Musume Project (容器娘。プロジェクト)
+## Buildings/Floor Plans
 ### Youki Towers
-#### Building Information
-- Building Name: Youki Towers
-- Building Type: Multi-use
-#### Floor Plans
-##### Tower II
+#### Zone 1
 - **B6-B2** - Basement Parking
 - **P1** - Lower Lobby, Parking
 - **P2** - Main Lobby, Parking
-- **P3-P7** - Parking
+- **P3-P8** - Parking
 - **8-40** - Offices
-- **41-42** - Mechanical
-- **43** - Office Skylobby and Lower Skydeck
-- **44-78** - Offices
-- **79** - Mechanical
+- **41-42** - Zone 1 Mechanical
+#### Zone 2
+- **43** - Residential Skylobby, Lower Skydeck
+- **44-78** - Residential
+- **79** - Zone 2 Mechanical
+#### Zone 3
 - **80** - Hotel Skylobby
 - **81** - Hotel Rooms
 - **82** - Hotel Service
-- **83-98** - Hotel Rooms
-- **99** - Hotel Penthouse
-- **100-102** - Ballrooms
-- **103** - Restaurant Service
-- **104** - Restaurant
-- **105** - Empty
-- **106-108** - Communications
-- **109-112** - Mechanical
-- **113** - Upper Skydeck, Rooftop Garden
+- **83-103** - Hotel Rooms
+- **104-105** - Hotel Penthouses
+- **106** - Restaurant Service
+- **107** - Restaurant
+- **108** - Ballroom
+- **109** - Ballroom Balcony
+- **110-112** - Zone 3 Mechanical
+#### Zone R
+- **113** - Upper Skydeck
+- **114-122** - Communications
+- **123** - Rooftop
+### Wilis Tower
+#### Zone 1
+- **LL3-LL1** - Lower Levels (LL2 is also Skydeck lobby)
+- **1** - Lobby
+- **2** - Restaurant/upper lobby
+- **3-28** - Zone 1 Offices
+- **29-32** - Zone 1 Mechanical
+#### Zone 2
+- **33-34** - Zone 2 Office Skylobby
+- **35-63** - Zone 2 Offices
+- **64-65** - Zone 2 Mechanical
+#### Zone 3A
+- **66-67** - Zone 3 Office Skylobby
+- **68-87** - Zone 3 Offices
+- **88-89** - Zone 3 Lower Mechanical
+#### Zone 3B
+- **90** - Communications
+- **91-98** - Zone 3 Offices
+- **99** - Alternate Skydeck
+- **100-102** - Communications
+- **103** - Skydeck
+- **104-105** - Communications
+- **106-108** - Zone 3 Upper Mechanical
+- **P** - Penthouse
+- **R** - Roof
 ## Conscripts
 ### Part 1
 #### Youkinese
