@@ -5,8 +5,8 @@
 ### Graflect (by Aaron Paterson)
 ### Grawlixes (by Mort Walker)
 ### Ihatemysalf
-### Jurgenschmidht (by Jurgen Schmidht)
 ![Ihatemysalf](https://github.com/user-attachments/assets/2dc2e6cc-6123-4ec7-9352-495ff31df874)
+### Jurgenschmidht (by Jurgen Schmidht)
 ### Klingon (by Astra Image Corporation)
 ### Medefaidrin (by Michael Ukpong & Akpan Akpan Udofia)
 ![Medefaidrin](https://github.com/user-attachments/assets/217d43b4-6240-43c4-aa94-68a54697c660)
