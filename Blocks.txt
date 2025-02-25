@@ -17,19 +17,19 @@ F2700..F27FF; Hacm
 F2800..F282F; Liparxe
 F2830..F286F; Shaleian
 F28A0..F28DF; Zbalermorna
-F4030..F404F; Youkinese
+F4030..F405F; Youkinese
 F4100..F413F; Lampung
-F4140..F416F; Kerinci
 F4380..F43FF; Cilacap
 F4400..F467F; Jeruklegi
-F4680..F46AF; Hatsukoihanabiese
+F4680..F46AF; Kerinci
 F46B0..F46FF; Iban
 F5E00..F5FFF; Kamakawi
+F6280..F62AF; Wave
+F6780..F67BF; Supplemental Kokoro Scripts
 F67C0..F67FF; Tai Kokoro
 F6800..F688F; Viet Kokoro
 FA700..FA71F; Modifier Tone Letter Presentation Forms
-FE200..FE3FF; Yoshiese Ideographs
-FE400..FE41F; Minecraftian Supplement
-FE420..FE6FF; Minecraftian
+FAB00..FAB3F; Applebanana
+FD000..FD07F; Muric
 FF330..FF37F; Ihatemysalf
 FF600..FF64F; Jurgenschmidht
