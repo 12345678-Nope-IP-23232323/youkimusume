@@ -54,6 +54,24 @@
 - **109** - Roof with Mechanical Penthouse
 - **110** - Penthouse Roof
 ### IRL/Malaysia/Merdeka 118
+**Proposal by EM113; Revised by EM111**
+#### Main
+- **B7** - Mechanical
+- **B6-B1** - Basement Parking
+- **C** - Lounge / Gallery / Loading Dock
+- **G** - Lower Lobby Level / North Foyer
+- **1-2** - The View @ 118 (Skydeck and observatory)
+- **3** - Park Hyatt Hotel Lobby / Mall Entrance
+- **4** - Upper Lobby Level / South Foyer
+- **5** - Merdeka 118 Office lobby
+- **6-7** - Mechanical
+- **8-23** - Low Zone 1 Offices
+- **24-39** - Low Zone 1 Offices
+- **40-41** - Office Sky lobby
+- **42** - Mechanical
+- **43-57** - Low Zone 1 Offices
+- **58-74** - Low Zone 1 Offices
+- **75** - Park Hyatt Kuala Lumpur (hotel) Sky lobby, Restaurant and Bar
 ## Conscripts
 ### Part 1
 #### Youkinese
