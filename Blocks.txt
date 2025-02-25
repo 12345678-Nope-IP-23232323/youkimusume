@@ -3,12 +3,17 @@ E1D0..E1FF; Syai
 E630..E64F; Seussian Latin Extensions
 EBF0..EBFF; Martin Hexadecimal Numerals
 EC70..ECEF; Graflect
-EE00..EEBF; Alphabet Presentation Forms Appendix
+EE00..EF7F; Reversed Video
 EF80..EFFF; Private Use Area
-F000..F09F; Touhou Emoji
+F000..F09F; Touhou
+F100..F1FF; Specials Appendix-A
 F4C0..F4EF; Ath
-F610..F6FF; My Little Pony Emoji
+F620..F67F; Specials Extended-C
+F6A0..F6FF; Specials Extended-D
+F700..F71F; Thai Compatibility Forms
+F720..F7FF; Kreative Compatibility
 F800..F80F; Apple Compatibility
+F810..F89F; Specials Appendix-B
 F8D0..F8FF; Klingon
 F16B0..F16DF; Derani
 F1B00..F1C3F; Shidinn
@@ -19,12 +24,9 @@ F2830..F286F; Shaleian
 F28A0..F28DF; Zbalermorna
 F4030..F405F; Youkinese
 F4100..F413F; Lampung
-F4380..F43FF; Cilacap
-F4400..F467F; Jeruklegi
-F4680..F46AF; Kerinci
-F46B0..F46FF; Iban
 F5E00..F5FFF; Kamakawi
 F6280..F62AF; Wave
+F6400..F646F; Osu Compatibility
 F6780..F67BF; Supplemental Kokoro Scripts
 F67C0..F67FF; Tai Kokoro
 F6800..F688F; Viet Kokoro
@@ -33,3 +35,26 @@ FAB00..FAB3F; Applebanana
 FD000..FD07F; Muric
 FF330..FF37F; Ihatemysalf
 FF600..FF64F; Jurgenschmidht
+100000..1000AF; Specials Extended-A
+1000B0..1000CF; Kapitarune-A
+1000D0..10011F; Specials Extended-B
+100120..10015F; Singkong
+100160..10017F; Sigma Supplement
+100180..10019F; Dek and Upin And Tamanegi
+1001A0..1001DF; Sigma Extended
+1001E0..1001FF; Shanpinion Capital Letters
+100290..10029F; Lycian Extended-A
+100300..10033F; Kapitarune-A Supplement
+100340..10037F; Supplementary Private Use Area-C
+100380..1003BF; Mitsubishi Modern 3-Dot
+1003C0..101FDF; Hangul Syllables Supplement
+101FE0..101FFF; Shanpinion Small Letters
+102000..10200F; Password Characters
+102040..1020FF; Kapitarune-B
+102100..10217F; Kapitarune-C
+102180..1021FF; Shanpinion Supplement
+102510..10257F; Tamanegi
+102580..10258F; Kapitarune-A Variants
+102590..1025FF; Tamanegi Supplement
+102600..10262F; Bassa Vah Small Letters
+10FF00..10FFFD; Specials Appendix-C
