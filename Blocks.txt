@@ -14,7 +14,6 @@ F2800..F282F; Liparxe
 F2830..F286F; Shaleian
 F28A0..F28DF; Zbalermorna
 F4030..F404F; Youkinese
-F4050..F408F; Singkong
 F4100..F413F; Lampung
 F42E0..F42FF; Proto-Sinatic
 F4400..F467F; Cilacap Syllabary
