@@ -8,10 +8,6 @@ F800..F80F; Apple Compatibility
 F8D0..F8FF; Klingon
 F16B0..F16DF; Derani
 F1B00..F1C3F; Shidinn
-F2000..F267F; Sadalian
-F2700..F27FF; Hacm
-F2800..F282F; Liparxe
-F2830..F286F; Shaleian
 F28A0..F28DF; Zbalermorna
 F4000..F405F; Youkinese
 FA700..FA71F; Modifier Tone Letter Presentation Forms
