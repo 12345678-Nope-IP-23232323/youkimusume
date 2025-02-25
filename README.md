@@ -1,6 +1,6 @@
 # Youki Musume Project (容器娘。プロジェクト)
 ## Buildings/Floor Plans
-### Youki Towers
+### Fictional/Youkimachi/Youki Towers
 #### Zone 1
 - **B6-B2** - Basement Parking
 - **P1** - Lower Lobby, Parking
@@ -27,11 +27,12 @@
 - **113** - Upper Skydeck
 - **114-122** - Communications
 - **123** - Rooftop
-### Wilis Tower
+### IRL/USA/Wilis Tower
+**Proposal by EM113; Revised by EM111**
 #### Zone 1
-- **LL3-LL1** - Lower Levels (LL2 is also Skydeck lobby)
-- **1** - Lobby
-- **2** - Restaurant/upper lobby
+- **LL3-LL1** - Lower Lobby, Skydeck Entrance (on LL2), Shops and Restaurants
+- **1** - Lobby, Shops and Restaurants
+- **2** - Restaurant and Upper lobby
 - **3-28** - Zone 1 Offices
 - **29-32** - Zone 1 Mechanical
 #### Zone 2
@@ -45,13 +46,14 @@
 #### Zone 3B
 - **90** - Communications
 - **91-98** - Zone 3 Offices
-- **99** - Alternate Skydeck
+- **99** - Secondary Skydeck and Restaurant
 - **100-102** - Communications
-- **103** - Skydeck
-- **104-105** - Communications
+- **103** - Skydeck Observatory
+- **104-105** - Communications and Mechanical
 - **106-108** - Zone 3 Upper Mechanical
-- **P** - Penthouse
-- **R** - Roof
+- **109** - Roof with Mechanical Penthouse
+- **110** - Penthouse Roof
+### IRL/Malaysia/Merdeka 118
 ## Conscripts
 ### Part 1
 #### Youkinese
