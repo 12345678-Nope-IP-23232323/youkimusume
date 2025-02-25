@@ -1,9 +1,13 @@
+E000..E07F; Tengwar
 E1D0..E1FF; Syai
+E630..E64F; Seussian Latin Extensions
 EBF0..EBFF; Martin Hexadecimal Numerals
 EC70..ECEF; Graflect
-F000..F09F; Touhou
-F2C0..F2FF; GaruGaku
-F610..F6FF; Cutie
+EE00..EEBF; Alphabet Presentation Forms Appendix
+EF80..EFFF; Private Use Area
+F000..F09F; Touhou Emoji
+F4C0..F4EF; Ath
+F610..F6FF; My Little Pony Emoji
 F800..F80F; Apple Compatibility
 F8D0..F8FF; Klingon
 F16B0..F16DF; Derani
@@ -21,6 +25,10 @@ F4400..F467F; Jeruklegi
 F4680..F46AF; Hatsukoihanabiese
 F46B0..F46FF; Iban
 F5E00..F5FFF; Kamakawi
+F67C0..F67FF; Tai Kokoro
 F6800..F688F; Viet Kokoro
-FF300..FF32F; Proto-Sinatic
+FE200..FE3FF; Yoshiese Ideographs
+FE400..FE41F; Minecraftian Supplement
+FE420..FE6FF; Minecraftian
+FF330..FF37F; Ihatemysalf
 FF600..FF64F; Jurgenschmidht
