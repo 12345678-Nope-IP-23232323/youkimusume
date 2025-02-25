@@ -22,7 +22,7 @@ F2700..F27FF; Hacm
 F2800..F282F; Liparxe
 F2830..F286F; Shaleian
 F28A0..F28DF; Zbalermorna
-F4030..F405F; Youkinese
+F4000..F405F; Youkinese
 F4100..F413F; Lampung
 F5E00..F5FFF; Kamakawi
 F6280..F62AF; Wave
