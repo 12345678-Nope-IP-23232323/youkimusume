@@ -15,7 +15,7 @@
 ## Conscripts
 ### Youkinese
 ![容器の文字](https://github.com/user-attachments/assets/0ef3d914-0078-4960-8178-82f8e21bca74)
-### Zbalermorna
+### Zbalermorna (U+F28A0-U+F28DF, formerly U+ED80-U+EDBF)
 ![Zbalermorna](https://github.com/user-attachments/assets/73e2015a-00da-43d5-8919-7d4c3837dd8a)
 ### Klingon
 ![Klingon_Alphabet](https://github.com/user-attachments/assets/6f8e0f03-17ea-4310-899a-d7ea9dde085f)
