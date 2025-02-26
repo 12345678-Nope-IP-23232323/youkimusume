@@ -27,18 +27,21 @@
 - **21–36:** Middle Offices
 - **37:** Mechanical
 - **38–57:** Upper Offices
-- **58:** Executive Offices
+- **58:** Middle Service
 - **59-60:** Hotel Skylobby
-- **61:** Ayam Grepek Maa Bim
-- **62:** Mechanical/Pool Maintenance
-- **63:** Indoor Pool and Bar
-- **64:** Spa and Fitness Center
-- **65–112:** Guestrooms
+- **61:** Bunga Konnichiwa, Bunga Singkong, Bunga Mas Reyvan
+- **62-63:** Mechanical
+- **64:** Hotel Guestrooms
+- **65:** Hotel Service
+- **66–112:** Hotel Guestrooms
 - **113:** Mechanical
-- **114-115:** Restaurant
+- **114-115:** Luxury Restaurant
 - **116-118:** Observatory
 - **119-120:** Mechanical
-- **122:** Roof
+- **121-122:** Residential Skylobby
+- **123-137:** Residences
+- **138:** Mechanical
+- **RF:** Rooftop
 ### Wilis Tower
 - **LL3-LL1:** Lower Lobby, Skydeck Entrance, Shops and Restaurants
 - **1:** Lobby, Shops and Restaurants
