@@ -119,9 +119,12 @@
 ![Zbalermorna](https://github.com/user-attachments/assets/73e2015a-00da-43d5-8919-7d4c3837dd8a)
 - Blocks: U+F28A0-U+F28DF
 ### Part 2
-#### Tamanegi
-![Tamanegi](https://github.com/user-attachments/assets/30664a01-3241-44f4-86f4-3b36441eb264)
-- Blocks: U+102510-U+10257F
+#### Imatto-canna
+![Japanese_alphabet_by_Engelbert_Kaempfer_1690-1693](https://github.com/user-attachments/assets/333457d1-19c2-4ee7-ac96-8a37427b16ec)
+- Blocks: U+F4700-U+F47FF
+#### Seussian
+![one_beyond_zebra_artistic_alphabet_colours__by_dollykatanathewolfy_dgqcmjo](https://github.com/user-attachments/assets/9e5418a1-8c4d-4ca8-ab1b-6e884926ffd7)
+- Blocks: U+E630-U+E64F
 #### Vithkuqi
 ![Vithkuqi](https://github.com/user-attachments/assets/654aa454-bf9e-401f-ae4c-ae83af4b9acb)
 - Blocks: U+10570-U+105BF
