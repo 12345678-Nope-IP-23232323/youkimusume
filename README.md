@@ -111,26 +111,38 @@
 ### Part 1
 #### Youkinese
 ![容器の文字](https://github.com/user-attachments/assets/0ef3d914-0078-4960-8178-82f8e21bca74)
+##### Info
 - Blocks: U+F4000-U+F405F
 #### Medefaidrin
 ![Medefaidrin](https://github.com/user-attachments/assets/217d43b4-6240-43c4-aa94-68a54697c660)
+##### Info
 - Blocks: U+16E40-U+16E9F
 #### Zbalermorna
 ![Zbalermorna](https://github.com/user-attachments/assets/73e2015a-00da-43d5-8919-7d4c3837dd8a)
-- Blocks: U+F28A0-U+F28DF (formerly U+ED80-U+EDBF)
+##### Info
+- Blocks: U+F28A0-U+F28DF
 ### Part 2
-#### Sidetic
-- Blocks: U+10940-U+1095F (formerly U+FF240-U+FF26F)
+#### Tamanegi
+![Tamanegi](https://github.com/user-attachments/assets/30664a01-3241-44f4-86f4-3b36441eb264)
+##### Info
+- Blocks: U+EC70-U+EC9F
+#### Vithkuqi
+![Vithkuqi](https://github.com/user-attachments/assets/654aa454-bf9e-401f-ae4c-ae83af4b9acb)
+##### Info
+- Blocks: U+10570-U+105BF
 #### Ihatemysalf
 ![Ihatemysalf](https://github.com/user-attachments/assets/2dc2e6cc-6123-4ec7-9352-495ff31df874)
+##### Info
 - Blocks: U+FF330-U+FF37F
 #### Tahano Veno
 ![ayeri](https://github.com/user-attachments/assets/296c38a1-4283-4ffc-a035-36354975d0be)
 ![ayeri_punc](https://github.com/user-attachments/assets/30095466-b6d3-4d5e-8ca2-dd1802967937)
+##### Info
 - Blocks: U+FF380-U+FF3BF
 ### Part 3
 #### Klingon
 ![Klingon_Alphabet](https://github.com/user-attachments/assets/6f8e0f03-17ea-4310-899a-d7ea9dde085f)
+##### Info
 - Blocks: U+F8D0-U+F8FF
 ### Part 4
 ### Part 5
