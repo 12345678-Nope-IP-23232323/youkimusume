@@ -121,10 +121,8 @@
 ![Klingon_Alphabet](https://github.com/user-attachments/assets/6f8e0f03-17ea-4310-899a-d7ea9dde085f)
 - Blocks: U+F8D0-U+F8FF
 # Hoppeta Project
-- MZć  M2
+# Hello! Project
 # Touhou Project
 - [Fonts/README.md](https://github.com/RebeccaRGB/emojifont-touhou/blob/6e12be0ec6f82fe6f848c94107951f818d5733b5/README.md)
 # Custom Characters
-₨ = Rupiah
-↨ = Osu! Logo
-ć = Leftward Arrow
+- ₨ = Osu! Logo
