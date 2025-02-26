@@ -1,19 +1,5 @@
 # Youki Musume Project (容器娘。プロジェクト)
 ## Jadwal Acara
-### News Morning (05:00-06:00)
-### Open-Relay Live (06:00-07:00)
-### Morning Lifts (07:00-08:00)
-### Celebrity News (08:00-10:00)
-### Japanese Lifts (10:00-10:30)
-### News Siang (10:30-11:30)
-### Restaurant Live (11:30-13:00)
-### News Today (13:00-14:30)
-### Viral Live (14:30-15:30)
-### Evening Lifts (15:30-16:30)
-### News Prime (16:30-18:30)
-### Music Live (18:30-20:00)
-### International Lifts (20:00-22:00)
-### News Tonight (22:00-23:00)
 ### Osu! (23:00-05:00)
 ## Buildings/Floor Plans
 ### Youkimachi Complex 1
@@ -43,9 +29,11 @@
 - **38–57:** Upper Offices
 - **58:** Executive Offices
 - **59-60:** Hotel Skylobby
-- **61:** Alifa Fried Chicken
-- **62:** Mechanical
-- **63–112:** Guestrooms
+- **61:** Ayam Grepek Maa Bim
+- **62:** Mechanical/Pool Maintenance
+- **63:** Indoor Pool and Bar
+- **64:** Spa and Fitness Center
+- **65–112:** Guestrooms
 - **113:** Mechanical
 - **114-115:** Restaurant
 - **116-118:** Observatory
