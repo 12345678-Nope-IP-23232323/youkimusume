@@ -1,6 +1,75 @@
-# Youkimachi Simulator
-## Buildings
-### Floor Plans
+# H!P/S48/DUKUMA/MCZ/LDH Crossover
+## AKB48
+## Morning Musume
+## Berryz Kobo
+## C-ute
+## ANGERME (formerly S/mileage)
+## Momoiro Clover Z
+## Evening Musume
+## Juice=Juice
+## Country Girls
+## Hagoromo Kasaimo
+## Buono!
+## Ran Factory
+## Kobushi Factory
+## Tsubaki Factory
+## SSÛRAKI♡GIRLS
+## Hidamari Clothes
+## Nisshoku Musume
+## BEYOOOOONDS
+## OCHA NORMA
+## Rosy Chronicle
+## Kishou Shinka
+# TV Terrestrial
+- TVRI
+- TVRI Daerah
+- TVRI World
+- TVRI Sport
+- DAAI TV
+- tvMu
+- Nusantara TV
+- Elshinta TV
+- Inspira TV
+- BRTV
+- JTV
+- MDTV
+- Garuda TV
+- CNBC Indonesia
+- CNN Indonesia
+- Trans TV
+- Trans 7
+- Metro TV
+- SCTV
+- Indosiar
+- RTV
+- ANTV
+- tvOne
+- RCTI
+- MNCTV
+- GTV
+- iNews
+- Nusantara TV
+- Cahaya TV
+- RTV
+- Moji TV
+- Mentari TV
+- VTV
+- Magna Channel
+- BN Channel
+- Jawa Pos TV
+# Korean Pop
+# Games
+## Roblox
+## Youkimachi Simulator
+### Buildings
+- Ryurey House (Tritih Lor)
+- Youkimachi Tomarudai Tower (Youkimachi)
+- Kyassaba Tower (Yasai City)
+- District 8 (Jakarta)
+- Wilis Tower (Chicago)
+- Merdeka 118 (Kuala Lumpur)
+- Rita SuperMall (Purwokerto)
+### Buildings/Floor Plans
 #### Youkimachi 豆丸台 Tower
 - **B12-B6:** Basement Parking
 - **B5:** Motor Lobby
@@ -29,7 +98,7 @@
 - **123-137:** Residences
 - **138:** Mechanical
 - **RF:** Rooftop
-#### Sears Tower (Windows XP-8.1)/Wilis Tower (Windows 10-later)
+#### Wilis Tower
 - **LL3-LL1:** Lower Lobby, Skydeck Entrance, Shops and Restaurants
 - **1:** Lobby, Shops and Restaurants
 - **2:** Restaurant and Upper Lobby
@@ -137,62 +206,5 @@
 ### Cirth
 - Blocks: U+E080-U+E0FF
 - Creator: J. J. R. Tolkien
-# Games
-## Roblox
 # Touhou Project
 - [Fonts/README.md](https://github.com/RebeccaRGB/emojifont-touhou/blob/6e12be0ec6f82fe6f848c94107951f818d5733b5/README.md)
-# H!P/S48/DUKUMA/MCZ/LDH Crossover
-## AKB48
-## Morning Musume
-## Berryz Kobo
-## C-ute
-## ANGERME (formerly S/mileage)
-## Momoiro Clover Z
-## Evening Musume
-## Juice=Juice
-## Country Girls
-## Hagoromo Kasaimo
-## Buono!
-## Ran Factory
-## Kobushi Factory
-## Tsubaki Factory
-## SSÛRAKI♡GIRLS
-## Hidamari Clothes
-## Nisshoku Musume
-## BEYOOOOONDS
-## OCHA NORMA
-## Rosy Chronicle
-## Kishou Shinka
-# TV Terrestrial
-- TVRI
-- TVRI Daerah
-- TVRI World
-- TVRI Sport
-- DAAI TV
-- Inspira TV
-- Nusantara TV
-- MDTV
-- Garuda TV
-- CNBC Indonesia
-- CNN Indonesia
-- Trans TV
-- Trans 7
-- Metro TV
-- SCTV
-- Indosiar
-- RTV
-- ANTV
-- tvOne
-- RCTI
-- MNCTV
-- GTV
-- iNews
-- Nusantara TV
-- Cahaya TV
-- RTV
-- Moji TV
-- Mentari TV
-- VTV
-- Magna Channel
-- BN Channel
-# Korean Pop
