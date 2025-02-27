@@ -1,3 +1,54 @@
+## 豆台 Center
+- **B12-B6:** Basement Parking
+- **B5:** Motor Lobby
+- **B4-B3:** Supermarket
+- **B2-B1:** Youkimachi Mall
+- **1:** Main Lobby, Youkimachi Mall
+- **2-4:** Youkimachi Mall
+- **5-6:** Mechanical
+- **7–18:** Lower Offices
+- **19–20:** Mechanical
+- **21–36:** Middle Offices
+- **37:** Mechanical
+- **38–57:** Upper Offices
+- **58:** Middle Service
+- **59-60:** Hotel Skylobby
+- **61:** Bunga Mas Reyvan
+- **62-63:** Mechanical
+- **64:** Hotel Guestrooms
+- **65:** Hotel Service
+- **66–112:** Hotel Guestrooms
+- **113:** Mechanical
+- **114-115:** Luxury Restaurant
+- **116-118:** Observatory
+- **119-120:** Mechanical
+- **121-122:** Residential Skylobby
+- **123-137:** Residences
+- **138:** Mechanical
+- **RF:** Rooftop
+## Wilis Tower
+- **LL3-LL1:** Lower Lobby, Skydeck Entrance, Shops and Restaurants
+- **1:** Lobby, Shops and Restaurants
+- **2:** Restaurant and Upper Lobby
+- **3:** Offices
+- **3M:** Mechanical
+- **4-28:** Offices
+- **29-32:** Mechanical
+- **33-34:** Office Skylobby
+- **35-63:** Offices
+- **64-65:** Mechanical
+- **66-67:** Office Skylobby
+- **68-87:** Offices
+- **88-89:** Mechanical
+- **90:** Communications
+- **91-98:** Offices
+- **99:** Secondary Skydeck and Restaurant
+- **100-102:** Communications
+- **103:** Skydeck Observatory
+- **104-105:** Communications and Mechanical
+- **106-108:** Mechanical
+- **109:** Roof with Mechanical Penthouse
+- **110:** Penthouse Roof
 ## Merdeka 118
 - **B7:** Mechanical
 - **B6-B1:** Basement Parking
