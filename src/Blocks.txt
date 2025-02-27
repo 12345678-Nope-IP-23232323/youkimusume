@@ -8,7 +8,8 @@ EC70..ECEF; Graflect
 ECF0..ECFF; Whitaker Hexadecimal Numerals
 EDE0..EDEF; Zese
 EDF0..EDFF; Grawlixes
-F000..F09F; Touhou
+F000..F0FF; Touhou
+F100..F12F; Latin Extended Appendix
 F8D0..F8FF; Klingon
 F16B0..F16DF; Derani
 F1B00..F1C3F; Shidinn
