@@ -63,14 +63,12 @@
 ## Youkimachi Simulator
 ### Buildings
 - Ryurey House (Tritih Lor)
-- Youkimachi Tomarudai Tower (Youkimachi)
-- Kyassaba Tower (Yasai City)
-- District 8 (Jakarta)
-- Wilis Tower (Chicago)
 - Merdeka 118 (Kuala Lumpur)
-- Rita SuperMall (Purwokerto)
+- Tomarudai Center (Youkimachi)
+- Wilis Tower (Chicago)
+- District 8 (Jakarta)
 ### Buildings/Floor Plans
-#### Youkimachi 豆丸台 Tower
+#### 豆丸台 Center
 - **B12-B6:** Basement Parking
 - **B5:** Motor Lobby
 - **B4-B3:** Supermarket
