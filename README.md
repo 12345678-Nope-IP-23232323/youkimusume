@@ -88,7 +88,12 @@
 - **120:** Spire Tower/Roof/Mechanical
 - **Spire:** The Spire
 # Conscripts
-## Part 1
+## Core
+### Klingon
+![Klingon_Alphabet](https://github.com/user-attachments/assets/6f8e0f03-17ea-4310-899a-d7ea9dde085f)
+- Blocks: U+F8D0-U+F8FF
+- Creator: Astra Image Corporation
+## Main
 ### Youkinese
 ![容器の文字](https://github.com/user-attachments/assets/0ef3d914-0078-4960-8178-82f8e21bca74)
 - Blocks: U+F4000-U+F405F
@@ -120,34 +125,38 @@
 ### Ihatemysalf
 ![Ihatemysalf](https://github.com/user-attachments/assets/2dc2e6cc-6123-4ec7-9352-495ff31df874)
 - Blocks: U+FF330-U+FF37F
-#### Tahano Veno
+### Tahano Veno
 ![ayeri](https://github.com/user-attachments/assets/296c38a1-4283-4ffc-a035-36354975d0be)
 ![ayeri_punc](https://github.com/user-attachments/assets/30095466-b6d3-4d5e-8ca2-dd1802967937)
 - Blocks: U+FF380-U+FF3BF
 - Creator: Carsten Becker
+## Tolkien
 ### Tengwar
 - Blocks: U+E000-U+E07F
 - Creator: J. J. R. Tolkien
-### Klingon
-![Klingon_Alphabet](https://github.com/user-attachments/assets/6f8e0f03-17ea-4310-899a-d7ea9dde085f)
-- Blocks: U+F8D0-U+F8FF
-- Creator: Astra Image Corporation
+### Cirth
+- Blocks: U+E080-U+E0FF
+- Creator: J. J. R. Tolkien
+# Games
+## Roblox
 # Touhou Project
 - [Fonts/README.md](https://github.com/RebeccaRGB/emojifont-touhou/blob/6e12be0ec6f82fe6f848c94107951f818d5733b5/README.md)
 # Dukuma Project
 ## Evening Musume
-## Singkong Payung
+## Hagoromo Kasaimo
 ## Girls² (together LDH and GL2 Family)
-## Anggrek Factory (Ran Factory in Japanese, Orchid Factory in English)
+## ANGERME (together Hello! Project)
+## Ran Factory (Orchid Factory in English)
 ## SSÛRAKI♡GIRLS
 ## Hidamari Clothes
+## Nisshoku Musume
 ## BEYOOOOONDS (together Hello! Project)
 ## Kishou Shinka
 # Hello! Project
 ## Morning Musume
 ## Berryz Kobo
 ## C-ute
-## ANGERME (formerly S/mileage)
+## ANGERME (together Dukuma Project)
 ## Juice=Juice
 ## Country Girls
 ## Buono!
