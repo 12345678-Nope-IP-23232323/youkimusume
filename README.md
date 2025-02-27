@@ -1,25 +1,3 @@
-# H!P/S48/DUKUMA/MCZ/LDH Crossover
-## AKB48
-## Morning Musume
-## Berryz Kobo
-## C-ute
-## ANGERME (formerly S/mileage)
-## Momoiro Clover Z
-## Evening Musume
-## Juice=Juice
-## Country Girls
-## Hagoromo Kasaimo
-## Buono!
-## Ran Factory
-## Kobushi Factory
-## Tsubaki Factory
-## SSÛRAKI♡GIRLS
-## Hidamari Clothes
-## Nisshoku Musume
-## BEYOOOOONDS
-## OCHA NORMA
-## Rosy Chronicle
-## Kishou Shinka
 # TV Terrestrial
 - TVRI
 - TVRI Daerah
@@ -134,6 +112,29 @@
 - **110:** Penthouse Roof
 #### Other Buildings
 [Part 1](https://github.com/12345678-Nope-IP-23232323/youkimusume/blob/9bb5f7926126c40b51b075c6fb4c7cea4df3be8c/wiki/floorplans-pt1.md)
+# H!P/S48/DUKUMA/MCZ/LDH Crossover
+## AKB48
+## Morning Musume
+## Berryz Kobo
+## C-ute
+## ANGERME (formerly S/mileage)
+## Momoiro Clover Z
+## Evening Musume
+## Juice=Juice
+## Country Girls
+## Hagoromo Kasaimo
+## Buono!
+## Ran Factory
+## Kobushi Factory
+## Tsubaki Factory
+## SSÛRAKI♡GIRLS
+## Hidamari Clothes
+## Nisshoku Musume
+## BEYOOOOONDS
+## OCHA NORMA
+## Rosy Chronicle
+## Kishou Shinka
+# Restaurant
 # Conscripts
 ## Core
 ### Klingon
