@@ -62,11 +62,14 @@
 ## Roblox
 ## Youkimachi Simulator
 ### Buildings
+#### Default
 - Ryurey House (Tritih Lor)
-- Merdeka 118 (Kuala Lumpur)
 - Tomarudai Center (Youkimachi)
 - Wilis Tower (Chicago)
 - District 8 (Jakarta)
+#### Unlockable
+- Merdeka 118 (Kuala Lumpur)
+#### Downloadable
 ### Buildings/Floor Plans
 #### 豆丸台 Center
 - **B12-B6:** Basement Parking
