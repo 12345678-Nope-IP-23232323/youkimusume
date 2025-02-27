@@ -1,61 +1,41 @@
-# TV Terrestrial
+# Analog TV
 - TVRI
-- TVRI Daerah
-- TVRI World
-- TVRI Sport
-- DAAI TV
-- tvMu
-- Nusantara TV
-- Elshinta TV
-- Inspira TV
-- BRTV
-- JTV
-- MDTV
+- RTV
 - Garuda TV
-- CNBC Indonesia
-- CNN Indonesia
-- Trans TV
-- Trans 7
-- Metro TV
+- MDTV
+- Magna Channel
 - SCTV
 - Indosiar
-- RTV
+- Trans 7
+- Trans TV
 - ANTV
+- BTV
 - tvOne
-- RCTI
-- MNCTV
-- GTV
-- iNews
+- Kompas TV
+- Metro TV
 - Nusantara TV
-- Cahaya TV
-- RTV
-- Moji TV
-- Mentari TV
-- VTV
-- Magna Channel
-- BN Channel
-- Jawa Pos TV
+- iNews
+- JTV
 # Games
 ## Roblox
+## Minecraft
 ## Youkimachi Simulator
 ### Buildings
 #### Default
+- Abeno Harukas (Osaka)
 - District 8 (Jakarta)
 - King Power MahaNakhon (Bangkok)
 - Lippo Mall Nusantara (Jakarta)
-- Mall Taman Anggrek (Jakarta)
+- Luminor Hotel (Purwokerto)
 - Merdeka 118 (Kuala Lumpur)
-- Nana Suharna's House (Cilacap)
 - Neo Soho Podomoro City (Jakarta)
 - Rita SuperMall (Purwokerto)
-- Ryurey House (Jeruklegi)
+- Shibuya 109 (Shibuya)
 - Signature Tower (Jakarta)
-- Triton Center (Chicago)
-- Triton Center III (Diamond City)
+- Sonic Chicken (Tidar)
 - Tokyo Skytree (Tokyo)
 - Toudai Center (Youkimachi)
 - Wilis Tower (Chicago)
-- Yeyen Family's House (Cilacap)
 #### Unlockable
 #### Downloadable
 ### Buildings/Floor Plans
