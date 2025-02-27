@@ -63,10 +63,11 @@
 ## Youkimachi Simulator
 ### Buildings
 #### Default
-- Ryurey House (Tritih Lor)
 - Tomarudai Center (Youkimachi)
-- Wilis Tower (Chicago)
 - District 8 (Jakarta)
+- Wilis Tower (Chicago)
+- Tokyo Skytree (Tokyo)
+- Ryurey House (Tritih Lor)
 #### Unlockable
 - Merdeka 118 (Kuala Lumpur)
 #### Downloadable
