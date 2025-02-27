@@ -57,22 +57,31 @@
 - Magna Channel
 - BN Channel
 - Jawa Pos TV
-# Korean Pop
 # Games
 ## Roblox
 ## Youkimachi Simulator
 ### Buildings
 #### Default
-- Tomarudai Center (Youkimachi)
 - District 8 (Jakarta)
-- Wilis Tower (Chicago)
-- Tokyo Skytree (Tokyo)
-- Ryurey House (Tritih Lor)
-#### Unlockable
+- King Power MahaNakhon (Bangkok)
+- Lippo Mall Nusantara (Jakarta)
+- Mall Taman Anggrek (Jakarta)
 - Merdeka 118 (Kuala Lumpur)
+- Nana Suharna's House (Cilacap)
+- Neo Soho Podomoro City (Jakarta)
+- Rita SuperMall (Purwokerto)
+- Ryurey House (Jeruklegi)
+- Signature Tower (Jakarta)
+- Triton Center (Chicago)
+- Triton Center III (Diamond City)
+- Tokyo Skytree (Tokyo)
+- Toudai Center (Youkimachi)
+- Wilis Tower (Chicago)
+- Yeyen Family's House (Cilacap)
+#### Unlockable
 #### Downloadable
 ### Buildings/Floor Plans
-#### 豆丸台 Center
+#### 豆台 Center
 - **B12-B6:** Basement Parking
 - **B5:** Motor Lobby
 - **B4-B3:** Supermarket
