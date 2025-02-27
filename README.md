@@ -57,15 +57,10 @@
 ### Smileage
 - Blocks: U+F4830-U+F486F
 - Creator: ANGERME
-## Kreative Pack
+## Ihatemysalf Pack
 ### Ihatemysalf
 ![Ihatemysalf](https://github.com/user-attachments/assets/2dc2e6cc-6123-4ec7-9352-495ff31df874)
 - Blocks: U+FF330-U+FF37F
-### Tahano Veno
-![ayeri](https://github.com/user-attachments/assets/296c38a1-4283-4ffc-a035-36354975d0be)
-![ayeri_punc](https://github.com/user-attachments/assets/30095466-b6d3-4d5e-8ca2-dd1802967937)
-- Blocks: U+FF380-U+FF3BF
-- Creator: Carsten Becker
 ## Tolkien Pack
 ### Tengwar
 - Blocks: U+E000-U+E07F
