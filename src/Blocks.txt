@@ -17,6 +17,7 @@ F000..F0FF; Touhou
 F100..F1FF; Latin Extended Appendix
 F8D0..F8FF; Klingon
 F16B0..F16DF; Derani
+F1700..F18FF; Semtog
 F1B00..F1C3F; Shidinn
 F28A0..F28DF; Zbalermorna
 F4000..F405F; Youkinese
