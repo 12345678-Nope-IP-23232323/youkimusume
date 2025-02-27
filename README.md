@@ -1,6 +1,6 @@
-# Youki Project (容器プロジェクト)
-## Youkimachi Simulator
-### Buildings/Floor Plans
+# Youkimachi Simulator
+## Buildings
+### Floor Plans
 #### Youkimachi 豆丸台 Tower
 - **B12-B6:** Basement Parking
 - **B5:** Motor Lobby
@@ -63,7 +63,7 @@
 - **5:** Merdeka 118 Office lobby
 - **6-7:** Mechanical
 - **8-23:** Low Zone 1 Offices
-- **24-39:** Low Zone 1 Offices
+- **24-39:** Low Zone 2 Offices
 - **40-41:** Office Sky lobby
 - **42:** Mechanical
 - **43-57:** Mid Zone 1 Offices
@@ -87,27 +87,36 @@
 - **119:** Elevators Machinery/Mechanical
 - **120:** Spire Tower/Roof/Mechanical
 - **Spire:** The Spire
-# Imatsu Project
-## Conscripts
+# Conscripts
+## Part 1
 ### Youkinese
 ![容器の文字](https://github.com/user-attachments/assets/0ef3d914-0078-4960-8178-82f8e21bca74)
 - Blocks: U+F4000-U+F405F
+- Creator: Reyvan Aprilian Vardhiana
 ### Medefaidrin
 ![Medefaidrin](https://github.com/user-attachments/assets/217d43b4-6240-43c4-aa94-68a54697c660)
 - Blocks: U+16E40-U+16E9F
+- Creator: Michael Ukpong & Akpan Akpan Udofia
 ### Zbalermorna
 ![Zbalermorna](https://github.com/user-attachments/assets/73e2015a-00da-43d5-8919-7d4c3837dd8a)
 - Blocks: U+F28A0-U+F28DF
-### Imatto-canna
-![Japanese_alphabet_by_Engelbert_Kaempfer_1690-1693](https://github.com/user-attachments/assets/333457d1-19c2-4ee7-ac96-8a37427b16ec)
-- Blocks: U+F4700-U+F47FF
-### Seussian
-![one_beyond_zebra_artistic_alphabet_colours__by_dollykatanathewolfy_dgqcmjo](https://github.com/user-attachments/assets/9e5418a1-8c4d-4ca8-ab1b-6e884926ffd7)
-- Blocks: U+E630-U+E64F
+- Creator: Jack Humbert, la kmir
 ### Vithkuqi
 ![Vithkuqi](https://github.com/user-attachments/assets/654aa454-bf9e-401f-ae4c-ae83af4b9acb)
 - Blocks: U+10570-U+105BF
+### Smileage
+- Blocks: U+F4500-U+F452F
+- Creator: ANGERME
 ### Bunga Mas Reyvan
+- Blocks: U+F4530-U+F456F
+- Creator: Ryukent Altezza Vardhiana
+### Jurgenschmidht
+- Blocks: U+FF600-U+FF65F
+- Creator: Jurgen Schmidht
+### Seussian
+![one_beyond_zebra_artistic_alphabet_colours__by_dollykatanathewolfy_dgqcmjo](https://github.com/user-attachments/assets/9e5418a1-8c4d-4ca8-ab1b-6e884926ffd7)
+- Blocks: U+E630-U+E64F
+- Creator: Theodor Geisel
 ### Ihatemysalf
 ![Ihatemysalf](https://github.com/user-attachments/assets/2dc2e6cc-6123-4ec7-9352-495ff31df874)
 - Blocks: U+FF330-U+FF37F
@@ -115,14 +124,37 @@
 ![ayeri](https://github.com/user-attachments/assets/296c38a1-4283-4ffc-a035-36354975d0be)
 ![ayeri_punc](https://github.com/user-attachments/assets/30095466-b6d3-4d5e-8ca2-dd1802967937)
 - Blocks: U+FF380-U+FF3BF
+- Creator: Carsten Becker
 ### Tengwar
 - Blocks: U+E000-U+E07F
+- Creator: J. J. R. Tolkien
 ### Klingon
 ![Klingon_Alphabet](https://github.com/user-attachments/assets/6f8e0f03-17ea-4310-899a-d7ea9dde085f)
 - Blocks: U+F8D0-U+F8FF
-# Hoppeta Project
-# Hello! Project
+- Creator: Astra Image Corporation
 # Touhou Project
 - [Fonts/README.md](https://github.com/RebeccaRGB/emojifont-touhou/blob/6e12be0ec6f82fe6f848c94107951f818d5733b5/README.md)
-# Custom Characters
-- ₨ = Osu! Logo
+# Dukuma Project
+## Evening Musume
+## Singkong Payung
+## Girls² (together LDH and GL2 Family)
+## Anggrek Factory (Ran Factory in Japanese, Orchid Factory in English)
+## SSÛRAKI♡GIRLS
+## Hidamari Clothes
+## BEYOOOOONDS (together Hello! Project)
+## Kishou Shinka
+# Hello! Project
+## Morning Musume
+## Berryz Kobo
+## C-ute
+## ANGERME (formerly S/mileage)
+## Juice=Juice
+## Country Girls
+## Buono!
+## Kobushi Factory
+## Tsubaki Factory
+## BEYOOOOONDS (together Dukuma Project)
+## OCHA NORMA
+## Rosy Chronicle
+# Japanese Pop
+# Korean Pop
