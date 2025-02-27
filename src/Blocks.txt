@@ -1,5 +1,10 @@
 E000..E07F; Tengwar
+E080..E0FF; Cirth
 E1D0..E1FF; Syai
+E360..E37F; Sarkai
+E380..E3AF; Thelwik
+E4F0..E4FF; Kelwathi
+E5A0..E5BF; Ssuraki
 E630..E64F; Seussian Latin Extensions
 EB60..EB9F; Braille Extended
 EBE0..EBEF; Lapointe Hexadecimal Numerals
