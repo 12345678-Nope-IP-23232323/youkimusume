@@ -45,7 +45,7 @@
 - **B4-B3:** Supermarket
 - **B2-B1:** Youkimachi Mall
 - **1:** Main Lobby, Youkimachi Mall
-- **2-4:** Youkimachi Mall; Connector to TBA
+- **2-4:** Youkimachi Mall
 - **5-6:** Mechanical
 - **7–18:** Lower Offices
 - **19–20:** Mechanical
@@ -92,7 +92,7 @@
 - **110:** Penthouse Roof
 #### Other Buildings
 [Part 1](https://github.com/12345678-Nope-IP-23232323/youkimusume/blob/9bb5f7926126c40b51b075c6fb4c7cea4df3be8c/wiki/floorplans-pt1.md)
-# H!P/S48/DUKUMA/MCZ/LDH Crossover
+# J-Pop Crossover Part 1
 ## AKB48
 ## Morning Musume
 ## Berryz Kobo
@@ -103,12 +103,13 @@
 ## Juice=Juice
 ## Country Girls
 ## Hagoromo Kasaimo
+## Hello! Project Kenshuusei
 ## Buono!
 ## Ran Factory
 ## Kobushi Factory
 ## Tsubaki Factory
 ## SSÛRAKI♡GIRLS
-## Hidamari Clothes
+## Hidamari Koromo
 ## Nisshoku Musume
 ## BEYOOOOONDS
 ## OCHA NORMA
@@ -121,31 +122,51 @@
 ![Klingon_Alphabet](https://github.com/user-attachments/assets/6f8e0f03-17ea-4310-899a-d7ea9dde085f)
 - Blocks: U+F8D0-U+F8FF
 - Creator: Astra Image Corporation
-## Main
+## Part 1
 ### Youkinese
 ![容器の文字](https://github.com/user-attachments/assets/0ef3d914-0078-4960-8178-82f8e21bca74)
 - Blocks: U+F4000-U+F405F
 - Creator: Reyvan Aprilian Vardhiana
+### Tamanegi
+![Screenshot_20250217-151817](https://github.com/user-attachments/assets/36079293-c7a1-4ec5-8f60-adbac203a3ac)
+- Blocks: U+F4800-U+F482F
+- Creator: Reyvan Aprilian Vardhiana
+### Hakkiri Hmong
+- Blocks: U+F4400-U+F467F
+- Creator: Hello! Project Kenshuusei
 ### Medefaidrin
 ![Medefaidrin](https://github.com/user-attachments/assets/217d43b4-6240-43c4-aa94-68a54697c660)
 - Blocks: U+16E40-U+16E9F
 - Creator: Michael Ukpong & Akpan Akpan Udofia
+## Part 2
+### Kishanyie
+- Blocks: U+F4380-U+F43BF
+- Creator: ???
+### Semtog
+- Blocks: U+F1700-U+F18FF
+- Creator: ???
+### Piuzed
+- Blocks: U+F43C0-U+F43FF
+- Creator: ???
 ### Zbalermorna
 ![Zbalermorna](https://github.com/user-attachments/assets/73e2015a-00da-43d5-8919-7d4c3837dd8a)
 - Blocks: U+F28A0-U+F28DF
 - Creator: Jack Humbert, la kmir
+### Kelwathi
+![KelwathiAlphabet](https://github.com/user-attachments/assets/1e6f7ea9-3294-4610-b6d7-3ffad40236f5)
+- Blocks: U+E4F0-U+E4FF
+- Creator: Herman Miller
+## Part 3
 ### Vithkuqi
 ![Vithkuqi](https://github.com/user-attachments/assets/654aa454-bf9e-401f-ae4c-ae83af4b9acb)
 - Blocks: U+10570-U+105BF
-### Smileage
-- Blocks: U+F4500-U+F452F
-- Creator: ANGERME
-### Bunga Mas Reyvan
-- Blocks: U+F4530-U+F456F
-- Creator: Ryukent Altezza Vardhiana
 ### Jurgenschmidht
 - Blocks: U+FF600-U+FF65F
 - Creator: Jurgen Schmidht
+### Smileage
+- Blocks: U+F4830-U+F486F
+- Creator: ANGERME
+## Part 4
 ### Seussian
 ![one_beyond_zebra_artistic_alphabet_colours__by_dollykatanathewolfy_dgqcmjo](https://github.com/user-attachments/assets/9e5418a1-8c4d-4ca8-ab1b-6e884926ffd7)
 - Blocks: U+E630-U+E64F
