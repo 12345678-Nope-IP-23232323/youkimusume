@@ -1,10 +1,12 @@
 # Games
-## Roblox
-## Minecraft
-## Youkimachi Building Simulator
+## Building Simulator
 ### Buildings
 #### Floor Plans
-[Part 1](https://github.com/12345678-Nope-IP-23232323/extendedmaster113/blob/master/wiki/floorplans-pt1.md)
+- [Floor Plans Part 1](https://github.com/12345678-Nope-IP-23232323/extendedmaster113/blob/master/wiki/floorplans-pt1.md)
+- Floor Plans Part 2
+- Floor Plans Part 3
+- Floor Plans Part 4
+- Floor Plans Part 5
 # J-Pop Crossover Part 1
 ## AKB48
 ## Morning Musume
@@ -16,7 +18,7 @@
 ## Hagoromo Uraha
 ## Juice=Juice
 ## Country Girls
-## Hagoromo Kasaimo
+## Umbrella Roots
 ## Hello! Project Kenshuusei
 ## Buono!
 ## Ran Factory
@@ -32,16 +34,12 @@
 ## Kishou Shinka
 ## Tapioka Musume
 # ConScripts
-## Klingon Pack
-### Klingon
-![Klingon_Alphabet](https://github.com/user-attachments/assets/6f8e0f03-17ea-4310-899a-d7ea9dde085f)
-- Blocks: U+F8D0-U+F8FF
-- Creator: Astra Image Corporation
 ## Youki Pack
 ### Youkinese
 ![容器の文字](https://github.com/user-attachments/assets/0ef3d914-0078-4960-8178-82f8e21bca74)
 - Blocks: U+F4000-U+F405F
 - Creator: Reyvan Aprilian Vardhiana
+## Medefaidrin Pack
 ### Medefaidrin
 ![Medefaidrin](https://github.com/user-attachments/assets/217d43b4-6240-43c4-aa94-68a54697c660)
 - Blocks: U+16E40-U+16E9F
@@ -75,5 +73,10 @@
 ### Cirth
 - Blocks: U+E080-U+E0FF
 - Creator: J. J. R. Tolkien
+## Klingon Pack
+### Klingon
+![Klingon_Alphabet](https://github.com/user-attachments/assets/6f8e0f03-17ea-4310-899a-d7ea9dde085f)
+- Blocks: U+F8D0-U+F8FF
+- Creator: Astra Image Corporation
 # Touhou Project
 - [Fonts/README.md](https://github.com/RebeccaRGB/emojifont-touhou/blob/6e12be0ec6f82fe6f848c94107951f818d5733b5/README.md)
