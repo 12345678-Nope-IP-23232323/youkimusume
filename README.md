@@ -23,16 +23,16 @@
 ### Buildings
 #### Default
 - Abeno Harukas (Osaka)
+- Central Park (Jakarta)
 - District 8 (Jakarta)
 - King Power MahaNakhon (Bangkok)
 - Lippo Mall Nusantara (Jakarta)
 - Luminor Hotel (Purwokerto)
 - Merdeka 118 (Kuala Lumpur)
-- Neo Soho Podomoro City (Jakarta)
+- Neo Soho (Jakarta)
 - Rita SuperMall (Purwokerto)
 - Shibuya 109 (Shibuya)
 - Signature Tower (Jakarta)
-- Sonic Chicken (Tidar)
 - Tokyo Skytree (Tokyo)
 - Toudai Center (Youkimachi)
 - Wilis Tower (Chicago)
