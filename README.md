@@ -54,17 +54,13 @@
 - Floor Plans (Part 3)
 - Floor Plans (Part 4)
 - Floor Plans (Part 5)
-# J-Pop and K-Pop Crossover Part 1
-## AKB48
-## JKT48
+# Hello! Project Crossover
 ## Morning Musume
+## Evening Musume (Added in Windows 13)
 ## Berryz Kobo (Removed in Windows 11)
 ## C-ute (Removed in Windows 11)
 ## ANGERME (formerly S/mileage)
-## Momoiro Clover Z
-## Perfume
-## E-Girls
-## Evening Musume (Added in Windows 13)
+## Hanakanran (Added in Windows 13)
 ## Juice=Juice (Added in Windows 10)
 ## Country Girls (Added in Windows 10, Removed in Windows 11)
 ## Hello! Project Kenshuusei
@@ -73,12 +69,8 @@
 ## Tsubaki Factory (Added in Windows 10)
 ## SSÛRAKI♡GIRLS (Added in Windows 13)
 ## Nisshoku Musume (Added in Windows 13)
-## BEYOOOOONDS (Added in Windows 10 20H2)
-## Girls² (Added in Windows 10 20H2)
-## OCHA NORMA (Added in Windows 10 22H2 and Windows 11 22H2)
-## Lucky² (Added in Windows 10 22H2 and Windows 11 22H2)
-## QWER (Added in Windows 11 23H2)
-## ME:I (Added in Windows 11 24H2)
+## BEYOOOOONDS (Added in Windows 10 May 2019 Update)
+## OCHA NORMA (Added in Windows 11)
 ## Rosy Chronicle (Added in Windows 11 24H2)
 # Unicode Coverage
 ## EM113 Ryurey Sans Font
