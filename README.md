@@ -43,14 +43,14 @@
 # J-Pop Crossover Part 2
 ## Perfume
 ## E-Girls
-# Ramadhan PUA (To Unicode)
+# Ramadhan Fonts (PUA into Unicode)
 ## Blocks
-- U+F8080-U+F80BF: Yezidi (Moved to U+10E80-U+10EBF)
-- U+F80C0-U+F80EF: Chorasmian (Moved to U+10FB0-U+10FDF)
-- U+F80F0-U+F815F: Christian Sogdian (Moved to U+10F00-U+10F6F)
-- U+F8160-U+F819F: Youkinese (Moved to U+F4000-U+F405F)
-- U+F81A0-U+F81DF: Old Ugyhur (Moved to U+10F70-U+10FAF)
-- U+F81E0-U+F81FF: Elymaic (Moved to U+10FE0-U+10FFF)
+- U+F8000-U+F804F: Jurgenschmidht (Moved to U+FF600-U+FF64F)
+- U+F8050-U+F80DF: Bunga Mas Reyvan (Moved to U+F6B00-U+F6B8F)
+- U+F80E0-U+F80FF: Elymaic (Moved to U+10FE0-U+10FFF)
+- U+F8100-U+F815F: Youkinese (Moved to U+F4000-U+F405F)
+- U+F8160-U+F81BF: Medefaidrin (Moved to U+16E40-U+16E9F)
+- U+F81C0-U+F81FF: Zbalermorna (Moved to U+F28A0-U+F28DF)
 # J-Pop Crossover Part 3
 ## PassCode
 # J-Pop Crossover Part 4
@@ -74,7 +74,7 @@
 - Creator: Jack Humbert, la kmir
 ## Jurgenschmidht Pack
 ### Jurgenschmidht
-- Blocks: U+FF600-U+FF65F
+- Blocks: U+FF600-U+FF64F
 - Creator: Jurgen Schmidht
 ## Smileage Pack
 ### Smileage
