@@ -1,12 +1,6 @@
-# Games
-## Building Simulator
-### Buildings
-#### Floor Plans
-- [Floor Plans (Part 1)](https://github.com/12345678-Nope-IP-23232323/extendedmaster113/blob/main/wiki/floorplans-pt1.md)
-- Floor Plans (Part 2)
-- Floor Plans (Part 3)
-- Floor Plans (Part 4)
-- Floor Plans (Part 5)
+# General Fonts
+- Fairfax HD (Default)
+- Fairfax
 # Extended Time Registry
 ## Youkimachi Standard Time
 - 09:00-10:59 = Early Morning
@@ -26,6 +20,15 @@
 - 19:00-23:59 = Night
 - 00:00-00:59 = Midnight
 - 01:00-02:59 = Late Night
+# EM113 Building Simulator
+## Buildings
+### Default
+## Buildings/Floor Plans
+- [Floor Plans (Part 1)](https://github.com/12345678-Nope-IP-23232323/extendedmaster113/blob/main/wiki/floorplans-pt1.md)
+- Floor Plans (Part 2)
+- Floor Plans (Part 3)
+- Floor Plans (Part 4)
+- Floor Plans (Part 5)
 # J-Pop and K-Pop Crossover Part 1
 ## AKB48
 ## Morning Musume
