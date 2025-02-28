@@ -70,7 +70,7 @@
 ## Hello! Project Kenshuusei
 ## Buono! (Added in Windows 10, Removed in Windows 11)
 ## Kobushi Factory (Added in Windows 10, Removed in Windows 11)
-## Tsubaki Factory (Added in Windows 10 May 2019 Update)
+## Tsubaki Factory (Added in Windows 10)
 ## SSÛRAKI♡GIRLS (Added in Windows 13)
 ## Nisshoku Musume (Added in Windows 13)
 ## BEYOOOOONDS (Added in Windows 10 20H2)
