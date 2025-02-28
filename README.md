@@ -1,6 +1,12 @@
 # Default Fonts
 - Fairfax HD (Standard)
 - Fairfax (Pixelated)
+- Fairfax SM HD (Strictly Monospaced)
+- Fairfax SM (Strictly Monospaced, Pixelated)
+- Fairfax Serif HD (Serif)
+- Fairfax Serif (Serif, Pixelated)
+- Fairfax Serif SM HD (Serif, Strictly Monospaced)
+- Fairfax Serif SM (Serif, Strictly Monospaced, Pixelated)
 # Extended Time Registry
 ## General
 - 03:00-04:59 = Early Morning
