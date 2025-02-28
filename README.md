@@ -54,28 +54,19 @@
 - Floor Plans (Part 3)
 - Floor Plans (Part 4)
 - Floor Plans (Part 5)
-# Hello! Project Kenshuusei Crossover
+# Hello! Project Members
 ## Morning Musume
-## ANGERME
-## Juice=Juice
-## Tsubaki Factory
-## BEYOOOOONDS
-## OCHA NORMA
-## Rosy Chronicle
-# Hello! Project Kenshuusei Crossover (Extended)
-## Morning Musume
-## Coconuts Musume
-## Taiyō to Ciscomoon
-## Melon Kinenbi
-## Mini-Moni
-## Country Girls
 ## Berryz Kobo
 ## C-ute
 ## Buono!
 ## ANGERME
+## Hello! Project Kenshuusei
+# Hello! Project Members Supplement
 ## Juice=Juice
+## Country Girls
 ## Kobushi Factory
 ## Tsubaki Factory
+# Hello! Project Members Extended-A
 ## BEYOOOOONDS
 ## OCHA NORMA
 ## Rosy Chronicle
