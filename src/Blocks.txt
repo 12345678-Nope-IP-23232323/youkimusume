@@ -1,5 +1,5 @@
 E630..E64F; Seussian Latin Extensions
 FA6A0..FA6FF; Atarashii Youkinese
 FA700..FA71F; Modifier Tone Letter Presentation Forms
-FF000..FF1FF; Latin Extended Appendix
+FF000..FF1FF; Fairfax Compatibility
 FF330..FF37F; Ihatemysalf
