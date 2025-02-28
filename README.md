@@ -1,16 +1,10 @@
 # Default Fonts
 - Fairfax HD
 - Fairfax
-- Fairfax SM HD
-- Fairfax SM
 - Fairfax Serif HD
 - Fairfax Serif
-- Fairfax Serif SM HD
-- Fairfax Serif SM
-- Fairfax Upper HD
-- Fairfax Upper (formerly Fairfax Upper SD)
-- Fairfax Upper SM HD
-- Fairfax Upper SM
+- Fairfax Extended HD (formerly Fairfax Upper HD)
+- Fairfax Extended (formerly Fairfax Upper SD and Fairfax Upper)
 # Extended Time Registry
 ## General
 - 03:00-04:59 = Early Morning
