@@ -1,26 +1,21 @@
-# Floor Acara
-## Lobbies
-- Lobby Pagi
-- Lobby Siang
-- Lobby Malam
-- Main Lobby
-- Breaking Lobbies
 # Games
 ## Building Simulator
 ### Buildings
 #### Floor Plans
-- [Floor Plans Part 1](https://github.com/12345678-Nope-IP-23232323/extendedmaster113/blob/master/wiki/floorplans-pt1.md)
-- Floor Plans Part 2
-- Floor Plans Part 3
-- Floor Plans Part 4
-- Floor Plans Part 5
-# J-Pop Crossover Part 1
+- [Floor Plans (Part 1)](https://github.com/12345678-Nope-IP-23232323/extendedmaster113/blob/master/wiki/floorplans-pt1.md)
+- Floor Plans (Part 2)
+- Floor Plans (Part 3)
+- Floor Plans (Part 4)
+- Floor Plans (Part 5)
+# J-Pop and K-Pop Crossover Part 1
 ## AKB48
 ## Morning Musume
 ## Berryz Kobo
 ## C-ute
 ## ANGERME (formerly S/mileage)
 ## Momoiro Clover Z
+## Perfume
+## E-Girls
 ## Evening Musume
 ## Hagoromo Uraha
 ## Juice=Juice
@@ -37,25 +32,14 @@
 ## BEYOOOOONDS
 ## Girls²
 ## OCHA NORMA
+## QWER
+## ME:I
+# 3Y Corporation's Missing K-Pop
+## Wooahh!
+## tripleS
+# Missing Stage48
+# Missing Hello! Project
 ## Rosy Chronicle
-## Kishou Shinka
-## Tapioka Musume
-# J-Pop Crossover Part 2
-## Perfume
-## E-Girls
-# Ramadhan Fonts (PUA into Unicode)
-## Blocks
-- U+F8000-U+F804F: Jurgenschmidht (Moved to U+FF600-U+FF64F)
-- U+F8050-U+F80DF: Bunga Mas Reyvan (Moved to U+F6B00-U+F6B8F)
-- U+F80E0-U+F80FF: Elymaic (Moved to U+10FE0-U+10FFF)
-- U+F8100-U+F815F: Youkinese (Moved to U+F4000-U+F405F)
-- U+F8160-U+F81BF: Medefaidrin (Moved to U+16E40-U+16E9F)
-- U+F81C0-U+F81FF: Zbalermorna (Moved to U+F28A0-U+F28DF)
-# J-Pop Crossover Part 3
-## PassCode
-# J-Pop Crossover Part 4
-## Lucky²
-## I Scream
 # ConScripts
 ## Youki Pack
 ### Youkinese
