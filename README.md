@@ -76,45 +76,63 @@
 # Missing Stage48
 # Missing Hello! Project
 ## Rosy Chronicle
-# ConScripts
-## Youki Pack
-### Youkinese
-![容器の文字](https://github.com/user-attachments/assets/0ef3d914-0078-4960-8178-82f8e21bca74)
-- Blocks: U+F4000-U+F405F
-- Creator: Reyvan Aprilian Vardhiana
-## Medefaidrin Pack
-### Medefaidrin
-![Medefaidrin](https://github.com/user-attachments/assets/217d43b4-6240-43c4-aa94-68a54697c660)
-- Blocks: U+16E40-U+16E9F
-- Creator: Michael Ukpong & Akpan Akpan Udofia
-## Zbalermorna Pack
-### Zbalermorna
-![Zbalermorna](https://github.com/user-attachments/assets/73e2015a-00da-43d5-8919-7d4c3837dd8a)
-- Blocks: U+F28A0-U+F28DF
-- Creator: Jack Humbert, la kmir
-## Jurgenschmidht Pack
-### Jurgenschmidht
-- Blocks: U+FF600-U+FF64F
-- Creator: Jurgen Schmidht
-## Smileage Pack
-### Smileage
-- Blocks: U+F4830-U+F486F
-- Creator: ANGERME
-## Ihatemysalf Pack
-### Ihatemysalf
-![Ihatemysalf](https://github.com/user-attachments/assets/2dc2e6cc-6123-4ec7-9352-495ff31df874)
-- Blocks: U+FF330-U+FF37F
-## Tolkien Pack
-### Tengwar
-- Blocks: U+E000-U+E07F
-- Creator: J. J. R. Tolkien
-### Cirth
-- Blocks: U+E080-U+E0FF
-- Creator: J. J. R. Tolkien
-## Klingon Pack
-### Klingon
-![Klingon_Alphabet](https://github.com/user-attachments/assets/6f8e0f03-17ea-4310-899a-d7ea9dde085f)
-- Blocks: U+F8D0-U+F8FF
-- Creator: Astra Image Corporation
+# Unicode Coverage
+## EM113 Ryurey Sans Font
+- U+E000-U+E07F: Tengwar
+- U+E080-U+E0FF: Cirth
+- U+E100-U+E14F: Engsvanyali
+- U+E150-U+E1AF: Kinya
+- U+E1B0-U+E1CF: Ilianore
+- U+E200-U+E26F: Verdurian
+- U+E270-U+E28F: aUI
+- U+E3B0-U+E3FF: Olaetyan
+- U+E5C0-U+E5DF: Gargoyle
+- U+E630-U+E64F: Seussian Latin Extensions
+- U+E650-U+E67F: Sylabica (now Sylabitsa)
+- U+E680-U+E6CF: Ewellic
+- U+E6D0-U+E6EF: Amlin
+- U+E6F0-U+E73F: Unifon Extended
+- U+E740-U+E76F: Unifon
+- U+E770-U+E77F: Solresol
+- U+E780-U+E7FF: Visible Speech
+- U+E800-U+E82F: Monofon
+- U+E830-U+E88F: Dni
+- U+E890-U+E8DF: Aurebesh
+- U+E8E0-U+E8FF: Tonal
+- U+E900-U+E97F: Glaitha-A
+- U+E980-U+E9FF: Glaitha-B
+- U+EA00-U+EA9F: Lhenazi
+- U+EAA0-U+EAFF: Wanya
+- U+EB40-U+EB5F: Standard Galactic
+- U+EB60-U+EB9F: Braille Extended
+- U+EBA0-U+EBDF: Cistercian Numerals
+- U+EBE0-U+EBEF: Lapointe Hexadecimal Numerals
+- U+EBF0-U+EBFF: Martin Hexadecimal Numerals
+- U+EC00-U+EC2F: Cylenian
+- U+EC30-U+EC6F: Syrrin
+- U+ECF0-U+ECFF: Whitaker Hexadecimal Numerals
+- U+ED00-U+ED3F: Deini
+- U+ED40-U+ED7F: Niji
+- U+ED80-U+EDAF: Iranic
+- U+EDE0-U+EDEF: Zese
+- U+F4C0-U+F4EF: Ath
+- U+F800: Font Version Indicator
+- U+F8A0-U+F8CF: Aiha
+- U+F8D0-U+F8FF: Klingon
+- U+F0000-U+F0E6F: Kinya Syllables
+- U+F0E70-U+F16AF: Pikto
+- U+F16B0-U+F16DF: Derani
+- U+F1700-U+F18FF: Semtog
+- U+F1B00-U+F1C3F: Shidinn
+- U+F2680-U+F26AF: Quikscript
+- U+F2700-U+F27FF: Hacm
+- U+F2800-U+F282F: Liparxe
+- U+F2830-U+F289F: Shaleian
+- U+F28A0-U+F28DF: Zbalermorna
+- U+F4000-U+F404F: Youkinese
+- U+FA6A0-U+FA6FF: New Youkinese
+- U+FF330-U+FF37F: Ihatemysalf
+- U+FF3C0-U+FF3FF: Aliphbepf
+- U+FF600-U+FF64F: Jurgenschmidht
 # Touhou Project
 - [Fonts/README.md](https://github.com/RebeccaRGB/emojifont-touhou/blob/6e12be0ec6f82fe6f848c94107951f818d5733b5/README.md)
