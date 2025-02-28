@@ -61,8 +61,8 @@
 ## C-ute (Removed in Windows 11)
 ## ANGERME (formerly S/mileage)
 ## Hanakanran (Added in Windows 13)
-## Juice=Juice (Added in Windows 10)
-## Country Girls (Added in Windows 10, Removed in Windows 11)
+## Juice=Juice (Added in Windows 8.1)
+## Country Girls (Added in Windows 8.1, Removed in Windows 11)
 ## Hello! Project Kenshuusei
 ## Buono! (Added in Windows 10, Removed in Windows 11)
 ## Kobushi Factory (Added in Windows 10, Removed in Windows 11)
