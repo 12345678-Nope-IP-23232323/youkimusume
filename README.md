@@ -2,7 +2,7 @@
 ## Building Simulator
 ### Buildings
 #### Floor Plans
-- [Floor Plans (Part 1)](https://github.com/12345678-Nope-IP-23232323/extendedmaster113/blob/master/wiki/floorplans-pt1.md)
+- [Floor Plans (Part 1)](https://github.com/12345678-Nope-IP-23232323/extendedmaster113/blob/main/wiki/floorplans-pt1.md)
 - Floor Plans (Part 2)
 - Floor Plans (Part 3)
 - Floor Plans (Part 4)
