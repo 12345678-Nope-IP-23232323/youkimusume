@@ -1,3 +1,10 @@
+# Floor Acara
+## Lobbies
+- Lobby Pagi
+- Lobby Siang
+- Lobby Malam
+- Main Lobby
+- Breaking Lobbies
 # Games
 ## Building Simulator
 ### Buildings
