@@ -14,8 +14,8 @@
 - 18:00-18:59 = Noon
 - 19:00-27:59 = Afternoon
 - 28:00-28:59 = Evening
-- 29:00-35:59 = Night (1)
-- 00:00-02:59 = Night (2)
+- 29:00-35:59 = Night
+- 00:00-02:59 = Late Night
 # J-Pop and K-Pop Crossover Part 1
 ## AKB48
 ## Morning Musume
