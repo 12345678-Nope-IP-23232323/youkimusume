@@ -1,6 +1,7 @@
 # Default Fonts
 ## Core
-- Conscructium
+- Alco Sans
+- Constructium
 - Fairfax HD
 - Fairfax SD (now Fairfax)
 - Kreative Square
