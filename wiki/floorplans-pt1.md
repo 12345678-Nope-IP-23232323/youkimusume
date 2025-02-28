@@ -1,4 +1,8 @@
-## 豆台 Center
+# Buildings/Floor Plans
+- [Back](https://github.com/12345678-Nope-IP-23232323/extendedmaster113/tree/main)
+## Triton Center
+## iNews Tower
+## Toudai Center
 - **B12-B6:** Basement Parking
 - **B5:** Motor Lobby
 - **B4-B3:** Supermarket
