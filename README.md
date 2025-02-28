@@ -15,18 +15,18 @@
 - 07:00-10:59 = Early Morning
 - 11:00-23:59 = Morning
 - 24:00-24:59 = Noon
-- 25:00-33:59 = Afternoon
-- 34:00-34:59 = Evening
-- 35:00-47:59 = Night
+- 25:00-34:59 = Afternoon
+- 35:00-39:59 = Evening
+- 40:00-47:59 = Night
 - 00:00-00:59 = Midnight
 - 01:00-06:59 = Late Night
 ## Hoppeta
 - 15:00-22:59 = Early Morning
 - 23:00-47:59 = Morning
 - 48:00-48:59 = Noon
-- 49:00-71:59 = Afternoon
-- 72:00-72:59 = Evening
-- 73:00-95:59 = Night
+- 49:00-70:59 = Afternoon
+- 71:00-75:59 = Evening
+- 76:00-95:59 = Night
 - 00:00-00:59 = Midnight
 - 01:00-14:59 = Late Night
 # EM113 Building Simulator
