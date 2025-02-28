@@ -19,8 +19,8 @@
 - 05:00-11:59 = Morning
 - 12:00-12:59 = Noon
 - 13:00-15:59 = Afternoon
-- 16:00-17:59 = Evening
-- 18:00-18:59 = Berbuka
+- 16:00-16:59 = Evening
+- 17:00-18:59 = Berbuka
 - 19:00-23:59 = Night
 - 00:00-00:59 = Midnight
 - 01:00-01:59 = Late Night
