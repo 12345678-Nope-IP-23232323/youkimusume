@@ -9,13 +9,14 @@
 - Floor Plans (Part 5)
 # Constructed Time Registry (Extended)
 ## Youkimachi Standard Time
-- 03:00-06:59 = Early Morning
-- 07:00-17:59 = Morning
+- 07:00-08:59 = Early Morning
+- 09:00-17:59 = Morning
 - 18:00-18:59 = Noon
 - 19:00-27:59 = Afternoon
 - 28:00-28:59 = Evening
-- 29:00-35:59 = Night
-- 00:00-02:59 = Late Night
+- 29:00-47:59 = Night
+- 00:00-00:59 = Midnight
+- 01:00-05:59 = Late Night
 # J-Pop and K-Pop Crossover Part 1
 ## AKB48
 ## Morning Musume
