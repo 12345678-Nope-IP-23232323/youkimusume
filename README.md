@@ -1,8 +1,9 @@
 # Default Fonts
-- Fairfax
-- Fairfax Ryurey
-- Fairfax Serif
+## Core
+- Conscructium
 - Fairfax HD
+- Fairfax SD (now Fairfax)
+- Kreative Square
 # Extended Time Registry
 ## General
 - 03:00-04:59 = Early Morning
