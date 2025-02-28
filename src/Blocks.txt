@@ -2,4 +2,3 @@ E630..E64F; Seussian Latin Extensions
 FA6A0..FA6FF; New Youkinese
 FA700..FA71F; Modifier Tone Letter Presentation Forms
 FF330..FF37F; Ihatemysalf
-FF600..FF64F; Jurgenschmidht
