@@ -40,6 +40,22 @@
 ## Rosy Chronicle
 ## Kishou Shinka
 ## Tapioka Musume
+# J-Pop Crossover Part 2
+## Perfume
+## E-Girls
+# Ramadhan PUA (To Unicode)
+## Blocks
+- U+F8080-U+F80BF: Yezidi (Moved to U+10E80-U+10EBF)
+- U+F80C0-U+F80EF: Chorasmian (Moved to U+10FB0-U+10FDF)
+- U+F80F0-U+F815F: Christian Sogdian (Moved to U+10F00-U+10F6F)
+- U+F8160-U+F819F: Youkinese (Moved to U+F4000-U+F405F)
+- U+F81A0-U+F81DF: Old Ugyhur (Moved to U+10F70-U+10FAF)
+- U+F81E0-U+F81FF: Elymaic (Moved to U+10FE0-U+10FFF)
+# J-Pop Crossover Part 3
+## PassCode
+# J-Pop Crossover Part 4
+## Lucky²
+## I Scream
 # ConScripts
 ## Youki Pack
 ### Youkinese
