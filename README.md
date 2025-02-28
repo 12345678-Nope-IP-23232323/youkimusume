@@ -1,6 +1,6 @@
 # Default Fonts
 - Fairfax HD (Standard)
-- Fairfax SD (Pixel)
+- Fairfax (Pixelated)
 # Extended Time Registry
 ## General
 - 03:00-04:59 = Early Morning
