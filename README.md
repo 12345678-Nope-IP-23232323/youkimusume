@@ -54,24 +54,33 @@
 - Floor Plans (Part 3)
 - Floor Plans (Part 4)
 - Floor Plans (Part 5)
-# Hello! Project Crossover
+# Hello! Project Kenshuusei Crossover
 ## Morning Musume
-## Evening Musume (Added in Windows 13)
-## Berryz Kobo (Removed in Windows 11)
-## C-ute (Removed in Windows 11)
-## ANGERME (formerly S/mileage)
-## Hanakanran (Added in Windows 13)
-## Juice=Juice (Added in Windows 8.1)
-## Country Girls (Added in Windows 8.1, Removed in Windows 11)
-## Hello! Project Kenshuusei
-## Buono! (Added in Windows 10, Removed in Windows 11)
-## Kobushi Factory (Added in Windows 10, Removed in Windows 11)
-## Tsubaki Factory (Added in Windows 10)
-## SSÛRAKI♡GIRLS (Added in Windows 13)
-## Nisshoku Musume (Added in Windows 13)
-## BEYOOOOONDS (Added in Windows 10 May 2019 Update)
-## OCHA NORMA (Added in Windows 11)
-## Rosy Chronicle (Added in Windows 11 24H2)
+## ANGERME
+## Juice=Juice
+## Tsubaki Factory
+## BEYOOOOONDS
+## OCHA NORMA
+## Rosy Chronicle
+# Hello! Project Kenshuusei Crossover (Extended)
+## Morning Musume
+## Coconuts Musume
+## Taiyō to Ciscomoon
+## Melon Kinenbi
+## Mini-Moni
+## Country Girls
+## Berryz Kobo
+## C-ute
+## Buono!
+## ANGERME
+## Juice=Juice
+## Kobushi Factory
+## Tsubaki Factory
+## BEYOOOOONDS
+## OCHA NORMA
+## Rosy Chronicle
+# Created J-Pop
+## SSÛRAKI♡GIRLS
 # Unicode Coverage
 ## EM113 Ryurey Sans Font
 - U+E000-U+E07F: Tengwar
