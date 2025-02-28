@@ -1,6 +1,43 @@
 # Buildings/Floor Plans
 - [Back](https://github.com/12345678-Nope-IP-23232323/extendedmaster113/tree/main)
 ## Triton Center
+### Zone 1
+- **S:** Service Basement
+- **P5-P1:** Parking
+- **LL2:** Lower Level 2
+- **LL1:** Lower Level 1 (also Skydeck lobby)
+- **L:** Lobby
+- **M:** Mezzanine
+- **1-5:** Conference Levels
+- **6-37:** Zone 1 Offices
+- **38-39:** Zone 1 Mechanical
+### Zone 2
+- **40:** Office Skylobby
+- **41-78:** Zone 2 Offices
+- **79:** Zone 2 Mechanical
+### Zone 3A
+- **80:** Hotel Skylobby
+- **81:** Hotel Maintenance
+- **82-98:** Hotel Rooms
+- **99:** Hotel Penthouse
+- **100:** Residential Skylobby
+- **101:** Residential Lower Maintenance
+- **102-118:** Residential
+- **119:** Zone 3A Mechanical
+### Zone 3B
+- **120-129:** Residential
+- **130:** Residential Upper Maintenance
+- **131:** Pool Maintenance
+- **132:** Pool
+- **133:** Restaurant Kitchen / Maintenance
+- **134:** Restaurant
+- **135:** Grand Ballroom
+- **136:** Ballroom Balcony
+- **137:** Observatory
+- **138-140:** Communications
+- **141-142:** Zone 3B Mechanical
+- **R:** Roof
+- **PR:** Penthouse Roof
 ## Nugra Tower
 - **B12-B6:** Basement Parking
 - **B5:** Motor Lobby
