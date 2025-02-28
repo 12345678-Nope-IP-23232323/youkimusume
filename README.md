@@ -1,10 +1,8 @@
 # Default Fonts
-- Fairfax HD
 - Fairfax
-- Fairfax Serif HD
+- Fairfax Ryurey
 - Fairfax Serif
-- Fairfax Extended HD (formerly Fairfax Upper HD)
-- Fairfax Extended (formerly Fairfax Upper SD and Fairfax Upper)
+- Fairfax HD
 # Extended Time Registry
 ## General
 - 03:00-04:59 = Early Morning
@@ -15,6 +13,17 @@
 - 19:00-23:59 = Night
 - 00:00-00:59 = Midnight
 - 01:00-02:59 = Late Night
+## Ramadan
+- 02:00-03:59 = Sahur
+- 04:00-04:59 = Early Morning
+- 05:00-11:59 = Morning
+- 12:00-12:59 = Noon
+- 13:00-15:59 = Afternoon
+- 16:00-17:59 = Evening
+- 18:00-18:59 = Berbuka
+- 19:00-23:59 = Night
+- 00:00-00:59 = Midnight
+- 01:00-01:59 = Late Night
 ## Youkimachi
 - 07:00-10:59 = Early Morning
 - 11:00-23:59 = Morning
