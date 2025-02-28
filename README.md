@@ -12,14 +12,14 @@
 - 00:00-00:59 = Midnight
 - 01:00-02:59 = Late Night
 ## Youkimachi
-- 09:00-10:59 = Early Morning
+- 07:00-10:59 = Early Morning
 - 11:00-23:59 = Morning
 - 24:00-24:59 = Noon
-- 25:00-31:59 = Afternoon
-- 32:00-32:59 = Evening
-- 33:00-47:59 = Night
+- 25:00-33:59 = Afternoon
+- 34:00-34:59 = Evening
+- 35:00-47:59 = Night
 - 00:00-00:59 = Midnight
-- 01:00-08:59 = Late Night
+- 01:00-06:59 = Late Night
 ## Hoppeta
 - 15:00-22:59 = Early Morning
 - 23:00-47:59 = Morning
