@@ -1,10 +1,10 @@
 # Default Fonts
 ## Core
-- Alco Sans
-- Constructium
+- Alco Sans (Removed in Windows 11)
+- Constructium (Removed in Windows 11)
 - Fairfax HD
-- Fairfax SD (now Fairfax)
-- Kreative Square
+- Fairfax
+- Kreative Square (Removed in Windows 11)
 # Extended Time Registry
 ## General
 - 03:00-04:59 = Early Morning
@@ -26,7 +26,7 @@
 - 19:00-23:59 = Night
 - 00:00-00:59 = Midnight
 - 01:00-01:59 = Late Night
-## Youkimachi
+## Youkimachi (Added in Windows 12)
 - 07:00-10:59 = Early Morning
 - 11:00-23:59 = Morning
 - 24:00-24:59 = Noon
@@ -35,7 +35,7 @@
 - 40:00-47:59 = Night
 - 00:00-00:59 = Midnight
 - 01:00-06:59 = Late Night
-## Hoppeta
+## Hoppeta (Added in Windows 12)
 - 15:00-22:59 = Early Morning
 - 23:00-47:59 = Morning
 - 48:00-48:59 = Noon
@@ -56,37 +56,30 @@
 - Floor Plans (Part 5)
 # J-Pop and K-Pop Crossover Part 1
 ## AKB48
+## JKT48
 ## Morning Musume
-## Berryz Kobo
-## C-ute
+## Berryz Kobo (Removed in Windows 11)
+## C-ute (Removed in Windows 11)
 ## ANGERME (formerly S/mileage)
 ## Momoiro Clover Z
 ## Perfume
 ## E-Girls
-## Evening Musume
-## Hagoromo Uraha
-## Juice=Juice
-## Country Girls
-## Umbrella Roots
+## Evening Musume (Added in Windows 13)
+## Juice=Juice (Added in Windows 10)
+## Country Girls (Added in Windows 10, Removed in Windows 11)
 ## Hello! Project Kenshuusei
-## Buono!
-## Ran Factory
-## Kobushi Factory
-## Tsubaki Factory
-## SSÛRAKI♡GIRLS
-## Hidamari Koromo
-## Nisshoku Musume
-## BEYOOOOONDS
-## Girls²
-## OCHA NORMA
-## QWER
-## ME:I
-# 3Y Corporation's Missing K-Pop
-## Wooahh!
-## tripleS
-# Missing Stage48
-# Missing Hello! Project
-## Rosy Chronicle
+## Buono! (Added in Windows 10, Removed in Windows 11)
+## Kobushi Factory (Added in Windows 10, Removed in Windows 11)
+## Tsubaki Factory (Added in Windows 10 May 2019 Update)
+## SSÛRAKI♡GIRLS (Added in Windows 13)
+## Nisshoku Musume (Added in Windows 13)
+## BEYOOOOONDS (Added in Windows 10 20H2)
+## Girls² (Added in Windows 10 20H2)
+## OCHA NORMA (Added in Windows 10 22H2 and Windows 11 22H2)
+## Lucky² (Added in Windows 10 22H2 and Windows 11 22H2)
+## QWER (Added in Windows 11 23H2)
+## ME:I (Added in Windows 11 24H2)
+## Rosy Chronicle (Added in Windows 11 24H2)
 # Unicode Coverage
 ## EM113 Ryurey Sans Font
 - U+E000-U+E07F: Tengwar
@@ -145,5 +138,3 @@
 - U+FF330-U+FF37F: Ihatemysalf
 - U+FF3C0-U+FF3FF: Aliphbepf
 - U+FF600-U+FF64F: Jurgenschmidht
-# Touhou Project
-- [Fonts/README.md](https://github.com/RebeccaRGB/emojifont-touhou/blob/6e12be0ec6f82fe6f848c94107951f818d5733b5/README.md)
